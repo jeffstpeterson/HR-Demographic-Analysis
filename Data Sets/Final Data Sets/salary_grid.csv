@@ -1,0 +1,26 @@
+Position,FLSAStatus,Department,HourlyMIn,HourlyMid,HourlyMax,SalaryMin,SalaryMid,SalaryMax
+Accountant I,Exempt,Admin Office,20.32,24.72,29.95,42274,51425,62299
+Accountant II,Exempt,Admin Office,24.27,29.88,35.89,50490,62158,74658
+Shared Services Manager,Exempt,Admin Office,24.27,29.88,35.89,50490,62158,74658
+Sr. Accountant,Exempt,Admin Office,30.42,37.01,44.45,63264,76988,92454
+Database Administrator,Exempt,IT/IS,24.31,32.84,44.86,50569,68306,93312
+IT Director,Exempt,IT/IS,36.56,48.75,65,76050,101400,135200
+IT Manager - Support,Exempt,IT/IS,24.34,32.45,43.27,50625,67500,90000
+IT Manager- DB,Exempt,IT/IS,24.34,32.45,43.27,50625,67500,90000
+IT Manager- Infra,Exempt,IT/IS,24.34,32.45,43.27,50625,67500,90000
+Network Engineer,Exempt,IT/IS,24.44,32.14,42.44,50845,66850,88279
+Sr. DBA,Exempt,IT/IS,44.65,55.77,66.91,92863,116007,139170
+Sr. Network Engineer,Exempt,IT/IS,38.19,47.82,57.91,79428,99458,120451
+Director of Operations,Exempt,Production,60.25,75.31,94.14,125320,156650,195812
+Production Manager,Exempt,Production,30.94,41.25,54.81,64350,85800,114000
+Area Sakes Manager,Exempt,Sales,41.26,55,68.77,85830,114400,143050
+Director of Sales,Exempt,Sales,60,75,93.75,124800,156000,195000
+Sales Manager,Exempt,Sales,45.19,60.25,75.31,93990,125320,156650
+Software Engineer,Exempt,Software Engineering,28.73,38.3,51.07,59751,79669,106225
+Software Engineering Manager,Exempt,Software Engineering,27,33.75,42.19,56160,70200,87750
+Administrative Assistant,Non Exempt,Admin Office,14.42,19.23,24.04,29993.6,39998.4,50003.2
+Sr. Administrative Assistant,Non Exempt,Admin Office,16.83,21.63,26.44,35006.4,44990.4,54995.2
+IT Support,Non Exempt,IT/IS,22,25,30,45760,52000,62400
+Lead Production Technician,Non Exempt,Production,21.63,26.44,31.25,44990.4,54995.2,65000
+Production Technician I,Non Exempt,Production,14.42,19.23,24.04,29993.6,39998.4,50003.2
+Production Technician II,Non Exempt,Production,18.27,23.08,27.88,38001.6,48006.4,57990.4
