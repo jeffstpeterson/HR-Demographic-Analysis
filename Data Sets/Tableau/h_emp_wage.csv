@@ -1,0 +1,149 @@
+employee_no,position,department,pay_rate,status,flsa_status,post_education,school,race_desc,age,sex,hourly_min,hourly_mid,hourly_max
+1105025661,Production Technician II,Production       ,$24.00 ,Active,Non Exempt,No ,No,White,28,Female,$18.27 ,$23.08 ,$27.88 
+1405067188,Production Technician II,Production       ,$29.00 ,Active,Non Exempt,No ,No,White,59,male,$18.27 ,$23.08 ,$27.88 
+1108028428,Production Technician II,Production       ,$27.00 ,Active,Non Exempt,No ,No,Black or African American,39,Female,$18.27 ,$23.08 ,$27.88 
+1408069503,Production Technician II,Production       ,$26.00 ,Active,Non Exempt,No ,No,Hispanic,41,Male,$18.27 ,$23.08 ,$27.88 
+1001103149,Production Technician II,Production       ,$25.00 ,Active,Non Exempt,No ,No,Black or African American,47,Female,$18.27 ,$23.08 ,$27.88 
+1001504432,Production Technician II,Production       ,$26.10 ,Active,Non Exempt,No ,No,Black or African American,35,Female,$18.27 ,$23.08 ,$27.88 
+1008020942,Production Technician II,Production       ,$22.50 ,Active,Non Exempt,No ,No,American Indian or Alaska Native,31,Female,$18.27 ,$23.08 ,$27.88 
+1201031274,Production Technician II,Production       ,$25.00 ,Active,Non Exempt,No ,No,Two or more races,38,Male,$18.27 ,$23.08 ,$27.88 
+1406067957,Production Technician II,Production       ,$26.00 ,Active,Non Exempt,No ,No,White,30,Female,$18.27 ,$23.08 ,$27.88 
+1301052449,Production Technician II,Production       ,$26.00 ,Active,Non Exempt,No ,No,White,40,Male,$18.27 ,$23.08 ,$27.88 
+1011022820,Production Technician II,Production       ,$25.00 ,Active,Non Exempt,No ,No,Black or African American,37,Female,$18.27 ,$23.08 ,$27.88 
+1301052436,Production Technician II,Production       ,$29.00 ,Active,Non Exempt,No ,No,Black or African American,43,Male,$18.27 ,$23.08 ,$27.88 
+1104025435,Production Technician II,Production       ,$26.39 ,Active,Non Exempt,No ,No,White,32,Female,$18.27 ,$23.08 ,$27.88 
+1101023457,Production Technician II,Production       ,$22.00 ,Active,Non Exempt,No ,No,White,34,Male,$18.27 ,$23.08 ,$27.88 
+1403066125,Production Technician II,Production       ,$27.00 ,Active,Non Exempt,No ,No,White,27,Female,$18.27 ,$23.08 ,$27.88 
+1205033180,Production Technician II,Production       ,$22.00 ,Active,Non Exempt,Associates,Roxbury Community College,White,32,Female,$18.27 ,$23.08 ,$27.88 
+1103024843,Production Technician II,Production       ,$26.00 ,Active,Non Exempt,No ,No,Asian,38,Female,$18.27 ,$23.08 ,$27.88 
+1404066711,Production Technician II,Production       ,$27.00 ,Active,Non Exempt,Associates,Cuyahoga Community College,White,25,Male,$18.27 ,$23.08 ,$27.88 
+1106026462,Production Technician II,Production       ,$29.00 ,Active,Non Exempt,No ,No,White,31,Male,$18.27 ,$23.08 ,$27.88 
+1001970770,Production Technician II,Production       ,$22.00 ,Active,Non Exempt,No ,No,White,54,Male,$18.27 ,$23.08 ,$27.88 
+1011022818,Production Technician II,Production       ,$22.00 ,Active,Non Exempt,No ,No,Black or African American,41,Male,$18.27 ,$23.08 ,$27.88 
+1012023010,Production Technician II,Production       ,$24.25 ,Active,Non Exempt,No ,No,White,32,Male,$18.27 ,$23.08 ,$27.88 
+1110029623,Production Technician II,Production       ,$23.00 ,Active,Non Exempt,No ,No,White,41,Female,$18.27 ,$23.08 ,$27.88 
+1306057810,Production Technician II,Production       ,$25.00 ,Active,Non Exempt,No ,No,White,48,Female,$18.27 ,$23.08 ,$27.88 
+1406068345,Production Technician II,Production       ,$28.75 ,Active,Non Exempt,No ,No,White,64,Female,$18.27 ,$23.08 ,$27.88 
+1305056276,Production Technician II,Production       ,$24.00 ,Active,Non Exempt,No ,No,White,41,Female,$18.27 ,$23.08 ,$27.88 
+1405067565,Production Technician II,Production       ,$22.00 ,Active,Non Exempt,No ,No,White,38,Male,$18.27 ,$23.08 ,$27.88 
+1001856521,Production Technician II,Production       ,$25.00 ,Active,Non Exempt,No ,No,Asian,65,Female,$18.27 ,$23.08 ,$27.88 
+1307059937,Production Technician II,Production       ,$24.00 ,Active,Non Exempt,No ,No,White,29,Male,$18.27 ,$23.08 ,$27.88 
+1402065085,Production Technician II,Production       ,$24.00 ,Active,Non Exempt,No ,No,Black or African American,30,Female,$18.27 ,$23.08 ,$27.88 
+1005019209,Production Technician II,Production       ,$29.00 ,Active,Non Exempt,No ,No,White,29,Female,$18.27 ,$23.08 ,$27.88 
+1306058509,Production Technician II,Production       ,$23.00 ,Active,Non Exempt,No ,No,White,41,Female,$18.27 ,$23.08 ,$27.88 
+1103024924,Production Technician II,Production       ,$28.00 ,Active,Non Exempt,No ,No,White,25,Female,$18.27 ,$23.08 ,$27.88 
+1106026433,Production Technician II,Production       ,$25.00 ,Active,Non Exempt,No ,No,White,33,Female,$18.27 ,$23.08 ,$27.88 
+1207046956,Production Technician II,Production       ,$28.00 ,Active,Non Exempt,No ,No,White,33,Female,$18.27 ,$23.08 ,$27.88 
+1303054329,Production Technician II,Production       ,$27.00 ,Active,Non Exempt,No ,No,White,51,Female,$18.27 ,$23.08 ,$27.88 
+1205033439,Production Technician II,Production       ,$25.00 ,Active,Non Exempt,No ,No,White,32,Male,$18.27 ,$23.08 ,$27.88 
+1108028351,Production Technician II,Production       ,$27.00 ,Active,Non Exempt,No ,No,American Indian or Alaska Native,34,Female,$18.27 ,$23.08 ,$27.88 
+1001549006,Production Technician II,Production       ,$24.25 ,Active,Non Exempt,No ,No,White,31,Female,$18.27 ,$23.08 ,$27.88 
+1411071324,Production Technician II,Production       ,$29.00 ,Active,Non Exempt,No ,No,Black or African American,53,Male,$18.27 ,$23.08 ,$27.88 
+1109029103,Production Technician II,Production       ,$29.00 ,Active,Non Exempt,No ,No,White,36,Male,$18.27 ,$23.08 ,$27.88 
+1409070522,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,34,Male,$14.42 ,$19.23 ,$24.04 
+1408069539,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,No ,No,White,25,Female,$14.42 ,$19.23 ,$24.04 
+1011022883,Production Technician I,Production       ,$21.00 ,Active,Non Exempt,Associates,Masscusetts Bay Community College,White,29,Female,$14.42 ,$19.23 ,$24.04 
+1599991009,Production Technician I,Production       ,$15.00 ,Active,Non Exempt,Associates,Northern Essex Community College,White,40,Male,$14.42 ,$19.23 ,$24.04 
+1106026579,Production Technician I,Production       ,$15.00 ,Active,Non Exempt,Associates,Capella University,White,38,Male,$14.42 ,$19.23 ,$24.04 
+1405067064,Production Technician I,Production       ,$24.00 ,Active,Non Exempt,Associates,North Shore Community College,White,40,Female,$14.42 ,$19.23 ,$24.04 
+1304055987,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,Associates,Roxbury Community College,White,31,Male,$14.42 ,$19.23 ,$24.04 
+1111030129,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,Bachelors,Boston College,White,34,Male,$14.42 ,$19.23 ,$24.04 
+1001109612,Production Technician I,Production       ,$15.00 ,Active,Non Exempt,Bachelors,American Public University,White,39,Female,$14.42 ,$19.23 ,$24.04 
+1209049259,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,Bachelors,Capella University,White,31,Female,$14.42 ,$19.23 ,$24.04 
+1304055947,Production Technician I,Production       ,$23.00 ,Active,Non Exempt,No ,No,White,40,Female,$14.42 ,$19.23 ,$24.04 
+1301052124,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,No ,No,White,34,Male,$14.42 ,$19.23 ,$24.04 
+1101023679,Production Technician I,Production       ,$16.76 ,Active,Non Exempt,No ,No,Two or more races,34,Male,$14.42 ,$19.23 ,$24.04 
+1403066194,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,No ,No,White,47,Female,$14.42 ,$19.23 ,$24.04 
+1109029366,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,White,47,Male,$14.42 ,$19.23 ,$24.04 
+1412071844,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,No ,No,Asian,59,Female,$14.42 ,$19.23 ,$24.04 
+1308060366,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,White,28,Female,$14.42 ,$19.23 ,$24.04 
+1311063114,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,Black or African American,34,Male,$14.42 ,$19.23 ,$24.04 
+1208048062,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,White,67,Female,$14.42 ,$19.23 ,$24.04 
+1305057282,Production Technician I,Production       ,$19.50 ,Active,Non Exempt,No ,No,White,38,Female,$14.42 ,$19.23 ,$24.04 
+1012023295,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,No ,No,Black or African American,29,Female,$14.42 ,$19.23 ,$24.04 
+1403066069,Production Technician I,Production       ,$15.75 ,Active,Non Exempt,No ,No,White,40,Female,$14.42 ,$19.23 ,$24.04 
+1501072124,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,50,Male,$14.42 ,$19.23 ,$24.04 
+706006285,Production Technician I,Production       ,$21.00 ,Active,Non Exempt,No ,No,White,35,Male,$14.42 ,$19.23 ,$24.04 
+1209048696,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,No ,No,Black or African American,39,Female,$14.42 ,$19.23 ,$24.04 
+1202031618,Production Technician I,Production       ,$16.75 ,Active,Non Exempt,No ,No,White,31,Female,$14.42 ,$19.23 ,$24.04 
+1007020403,Production Technician I,Production       ,$21.25 ,Active,Non Exempt,No ,No,White,43,Male,$14.42 ,$19.23 ,$24.04 
+1101023612,Production Technician I,Production       ,$21.00 ,Active,Non Exempt,No ,No,White,39,Male,$14.42 ,$19.23 ,$24.04 
+1302053339,Production Technician I,Production       ,$18.00 ,Active,Non Exempt,No ,No,White,28,Male,$14.42 ,$19.23 ,$24.04 
+803009012,Production Technician I,Production       ,$23.00 ,Active,Non Exempt,No ,No,White,31,Female,$14.42 ,$19.23 ,$24.04 
+1006020020,Production Technician I,Production       ,$24.00 ,Active,Non Exempt,No ,No,White,36,Female,$14.42 ,$19.23 ,$24.04 
+1309061015,Production Technician I,Production       ,$19.00 ,Active,Non Exempt,No ,No,White,32,Male,$14.42 ,$19.23 ,$24.04 
+1104025414,Production Technician I,Production       ,$18.00 ,Active,Non Exempt,No ,No,Asian,37,Male,$14.42 ,$19.23 ,$24.04 
+1105026041,Production Technician I,Production       ,$24.00 ,Active,Non Exempt,No ,No,Black or African American,34,Female,$14.42 ,$19.23 ,$24.04 
+1501072192,Production Technician I,Production       ,$19.00 ,Active,Non Exempt,No ,No,Black or African American,27,Female,$14.42 ,$19.23 ,$24.04 
+1204032927,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,Two or more races,37,Female,$14.42 ,$19.23 ,$24.04 
+1411071212,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,American Indian or Alaska Native,48,Male,$14.42 ,$19.23 ,$24.04 
+1406068241,Production Technician I,Production       ,$21.00 ,Active,Non Exempt,No ,No,Asian,35,Male,$14.42 ,$19.23 ,$24.04 
+1404066622,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,43,Female,$14.42 ,$19.23 ,$24.04 
+1002017900,Production Technician I,Production       ,$19.00 ,Active,Non Exempt,No ,No,White,34,Male,$14.42 ,$19.23 ,$24.04 
+1408069882,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,White,27,Female,$14.42 ,$19.23 ,$24.04 
+1201031438,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,45,Female,$14.42 ,$19.23 ,$24.04 
+1503072857,Production Technician I,Production       ,$21.00 ,Active,Non Exempt,No ,No,White,51,Female,$14.42 ,$19.23 ,$24.04 
+1412071713,Production Technician I,Production       ,$19.00 ,Active,Non Exempt,No ,No,White,53,Female,$14.42 ,$19.23 ,$24.04 
+1301052462,Production Technician I,Production       ,$19.00 ,Active,Non Exempt,No ,No,White,42,Male,$14.42 ,$19.23 ,$24.04 
+1304055683,Production Technician I,Production       ,$14.00 ,Active,Non Exempt,No ,No,Black or African American,40,Male,$14.42 ,$19.23 ,$24.04 
+1311062610,Production Technician I,Production       ,$21.00 ,Active,Non Exempt,No ,No,Asian,37,Male,$14.42 ,$19.23 ,$24.04 
+1308060754,Production Technician I,Production       ,$23.00 ,Active,Non Exempt,No ,No,White,43,Female,$14.42 ,$19.23 ,$24.04 
+1401064327,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,40,Female,$14.42 ,$19.23 ,$24.04 
+909015167,Production Technician I,Production       ,$24.00 ,Active,Non Exempt,No ,No,Black or African American,31,Female,$14.42 ,$19.23 ,$24.04 
+1109029256,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,41,Female,$14.42 ,$19.23 ,$24.04 
+1102024121,Production Technician I,Production       ,$15.00 ,Active,Non Exempt,No ,No,White,33,Female,$14.42 ,$19.23 ,$24.04 
+1403066020,Production Technician I,Production       ,$15.00 ,Active,Non Exempt,No ,No,Asian,50,Female,$14.42 ,$19.23 ,$24.04 
+1203032357,Production Technician I,Production       ,$19.00 ,Active,Non Exempt,No ,No,White,33,Female,$14.42 ,$19.23 ,$24.04 
+1404066949,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,White,41,Male,$14.42 ,$19.23 ,$24.04 
+1103024335,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,No ,No,Black or African American,38,Male,$14.42 ,$19.23 ,$24.04 
+1307059944,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,No ,No,White,44,Female,$14.42 ,$19.23 ,$24.04 
+1001735072,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,No ,No,Black or African American,36,Male,$14.42 ,$19.23 ,$24.04 
+1401064562,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,White,56,Male,$14.42 ,$19.23 ,$24.04 
+1405067642,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,No ,No,Asian,45,Female,$14.42 ,$19.23 ,$24.04 
+1011022887,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,No ,No,White,33,Male,$14.42 ,$19.23 ,$24.04 
+710007555,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,No ,No,White,43,Female,$14.42 ,$19.23 ,$24.04 
+1302053362,Production Technician I,Production       ,$21.00 ,Active,Non Exempt,No ,No,Black or African American,29,Female,$14.42 ,$19.23 ,$24.04 
+1205033102,Production Technician I,Production       ,$15.00 ,Active,Non Exempt,No ,No,White,32,Female,$14.42 ,$19.23 ,$24.04 
+1501071909,Production Technician I,Production       ,$24.50 ,Active,Non Exempt,No ,No,White,53,Female,$14.42 ,$19.23 ,$24.04 
+1410071137,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,White,49,Female,$14.42 ,$19.23 ,$24.04 
+1111030244,Production Technician I,Production       ,$14.00 ,Active,Non Exempt,No ,No,Two or more races,35,Female,$14.42 ,$19.23 ,$24.04 
+1106026896,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,No ,No,Asian,32,Male,$14.42 ,$19.23 ,$24.04 
+1201031310,Production Technician I,Production       ,$19.00 ,Active,Non Exempt,No ,No,White,35,Male,$14.42 ,$19.23 ,$24.04 
+1407069061,Production Technician I,Production       ,$14.00 ,Active,Non Exempt,No ,No,Asian,49,Female,$14.42 ,$19.23 ,$24.04 
+1409070255,Production Technician I,Production       ,$24.00 ,Active,Non Exempt,No ,No,Black or African American,50,Female,$14.42 ,$19.23 ,$24.04 
+1012023152,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,No ,No,White,34,Female,$14.42 ,$19.23 ,$24.04 
+1211051232,Production Technician I,Production       ,$15.00 ,Active,Non Exempt,No ,No,Asian,39,Female,$14.42 ,$19.23 ,$24.04 
+1212051409,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,Associates,Bunker Hill Community College,Two or more races,47,Female,$14.42 ,$19.23 ,$24.04 
+1312063507,Production Technician I,Production       ,$22.00 ,Active,Non Exempt,Associates,Bunker Hill Community College,Asian,43,Male,$14.42 ,$19.23 ,$24.04 
+1110029777,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,Associates,Middlesex Community College,Asian,38,Male,$14.42 ,$19.23 ,$24.04 
+1407069280,Production Technician I,Production       ,$24.75 ,Active,Non Exempt,Associates,North Shore Community College,White,37,Male,$14.42 ,$19.23 ,$24.04 
+1001450968,Production Technician I,Production       ,$15.00 ,Active,Non Exempt,Associates,Northern Essex Community College,Black or African American,38,Male,$14.42 ,$19.23 ,$24.04 
+1312063675,Production Technician I,Production       ,$24.00 ,Active,Non Exempt,Associates,North Shore Community College,Asian,43,Female,$14.42 ,$19.23 ,$24.04 
+1103024859,Production Technician I,Production       ,$14.00 ,Active,Non Exempt,Associates,North Shore Community College,White,34,Female,$14.42 ,$19.23 ,$24.04 
+1105025721,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,Associates,Regis College,White,58,Male,$14.42 ,$19.23 ,$24.04 
+903013071,Production Technician I,Production       ,$24.00 ,Active,Non Exempt,Associates,North Shore Community College,White,47,Female,$14.42 ,$19.23 ,$24.04 
+1106026474,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,Associates,Bunker Hill Community College,White,32,Female,$14.42 ,$19.23 ,$24.04 
+1305057440,Production Technician I,Production       ,$18.00 ,Active,Non Exempt,Bachelors,National University,White,29,Male,$14.42 ,$19.23 ,$24.04 
+1001417624,Production Technician I,Production       ,$16.00 ,Active,Non Exempt,No ,No,White,28,Female,$14.42 ,$19.23 ,$24.04 
+1307060083,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,No ,No,Hispanic,44,Female,$14.42 ,$19.23 ,$24.04 
+1212051962,Production Technician I,Production       ,$18.00 ,Active,Non Exempt,No ,No,White,40,Male,$14.42 ,$19.23 ,$24.04 
+1406068293,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,27,Female,$14.42 ,$19.23 ,$24.04 
+1408069635,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,Black or African American,48,Female,$14.42 ,$19.23 ,$24.04 
+1101023394,Production Technician I,Production       ,$21.00 ,Active,Non Exempt,No ,No,White,34,Female,$14.42 ,$19.23 ,$24.04 
+1311063172,Production Technician I,Production       ,$19.75 ,Active,Non Exempt,No ,No,White,30,Female,$14.42 ,$19.23 ,$24.04 
+1306058816,Production Technician I,Production       ,$23.50 ,Active,Non Exempt,No ,No,White,40,Male,$14.42 ,$19.23 ,$24.04 
+1406067865,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,No ,No,White,26,Female,$14.42 ,$19.23 ,$24.04 
+1104025243,Production Technician I,Production       ,$17.00 ,Active,Non Exempt,No ,No,White,34,Male,$14.42 ,$19.23 ,$24.04 
+1107027392,Production Technician I,Production       ,$18.00 ,Active,Non Exempt,No ,No,White,28,Female,$14.42 ,$19.23 ,$24.04 
+1502072511,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,62,Female,$14.42 ,$19.23 ,$24.04 
+1101023353,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,42,Female,$14.42 ,$19.23 ,$24.04 
+1302053044,Production Technician I,Production       ,$21.00 ,Active,Non Exempt,No ,No,White,40,Male,$14.42 ,$19.23 ,$24.04 
+1410070998,Production Technician I,Production       ,$20.00 ,Active,Non Exempt,No ,No,White,49,Female,$14.42 ,$19.23 ,$24.04 
+807010161,Production Technician I,Production       ,$15.20 ,Active,Non Exempt,No ,No,Asian,42,Female,$14.42 ,$19.23 ,$24.04 
+602000312,IT Support,IT/IS,$26.00 ,Active,Non Exempt,Bachelors,University of Connecticut,Two or more races,29,Female,$22.00 ,$25.00 ,$30.00 
+1501072093,IT Support,IT/IS,$31.40 ,Active,Non Exempt,Associates,Capital Community College,White,49,Female,$22.00 ,$25.00 ,$30.00 
+1301052902,IT Support,IT/IS,$28.99 ,Active,Non Exempt,Associates,University of Connecticut,White,32,Male,$22.00 ,$25.00 ,$30.00 
+1203032263,IT Support,IT/IS,$27.49 ,Active,Non Exempt,Bachelors,Boston College,Black or African American,44,Female,$22.00 ,$25.00 ,$30.00 
+1211050782,Administrative Assistant,Admin Offices,$21.50 ,Active,Non Exempt,No ,No,White,32,Female,$14.42 ,$19.23 ,$24.04 
+1307059817,Administrative Assistant,Admin Offices,$16.56 ,Active,Non Exempt,Bachelors,Brown University,White,29,Female,$14.42 ,$19.23 ,$24.04 
+711007713,Administrative Assistant,Admin Offices,$20.50 ,Active,Non Exempt,Associates,California State University-Chico,Asian,30,Female,$14.42 ,$19.23 ,$24.04 

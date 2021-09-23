@@ -1,0 +1,391 @@
+employee_no,position,department,status,flsa_status,post_education,school,race_desc,state,zip,age,sex
+1211050782,administrative assistant,Admin Offices,Active,Non Exempt,No ,No,White,MA,2170,32,Female
+1307059817,administrative assistant,Admin Offices,Active,Non Exempt,Bachelors,Brown University,White,MA,2330,29,Female
+1211050782,administrative assistant,Admin Offices,Active,Non Exempt,No ,No,White,MA,2170,32,Female
+1307059817,administrative assistant,Admin Offices,Active,Non Exempt,Bachelors,Brown University,White,MA,2330,29,Female
+1307059817,administrative assistant,Admin Offices,Active,Non Exempt,Bachelors,Brown University,White,MA,2330,29,Female
+1211050782,administrative assistant,Admin Offices,Active,Non Exempt,No ,No,White,MA,2170,32,Female
+711007713,administrative assistant,Admin Offices,Active,Non Exempt,Associates,California State University-Chico,Asian,MA,1844,30,Female
+602000312,IT Support,IT/IS,Active,Non Exempt,Bachelors,University of Connecticut,Two or more races,CT,6070,29,Female
+1501072093,IT Support,IT/IS,Active,Non Exempt,Associates,Capital Community College,White,CT,6040,49,Female
+1301052902,IT Support,IT/IS,Active,Non Exempt,Associates,University of Connecticut,White,MA,2170,32,Male
+1203032263,IT Support,IT/IS,Active,Non Exempt,Bachelors,Boston College,Black or African American,MA,2360,44,Female
+1203032263,IT Support,IT/IS,Active,Non Exempt,Bachelors,Boston College,Black or African American,MA,2360,44,Female
+1501072093,IT Support,IT/IS,Active,Non Exempt,Associates,Capital Community College,White,CT,6040,49,Female
+1301052902,IT Support,IT/IS,Active,Non Exempt,Associates,University of Connecticut,White,MA,2170,32,Male
+1301052902,IT Support,IT/IS,Active,Non Exempt,Associates,University of Connecticut,White,MA,2170,32,Male
+1501072093,IT Support,IT/IS,Active,Non Exempt,Associates,Capital Community College,White,CT,6040,49,Female
+602000312,IT Support,IT/IS,Active,Non Exempt,Bachelors,University of Connecticut,Two or more races,CT,6070,29,Female
+1203032263,IT Support,IT/IS,Active,Non Exempt,Bachelors,Boston College,Black or African American,MA,2360,44,Female
+602000312,IT Support,IT/IS,Active,Non Exempt,Bachelors,University of Connecticut,Two or more races,CT,6070,29,Female
+1409070522,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1960,34,Male
+1408069539,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2451,25,Female
+1011022883,Production Technician I,Production       ,Active,Non Exempt,Associates,Masscusetts Bay Community College,White,MA,1886,29,Female
+1599991009,Production Technician I,Production       ,Active,Non Exempt,Associates,Northern Essex Community College,White,MA,2452,40,Male
+1106026579,Production Technician I,Production       ,Active,Non Exempt,Associates,Capella University,White,MA,2169,38,Male
+1405067064,Production Technician I,Production       ,Active,Non Exempt,Associates,North Shore Community College,White,MA,2127,40,Female
+1304055987,Production Technician I,Production       ,Active,Non Exempt,Associates,Roxbury Community College,White,MA,2048,31,Male
+1111030129,Production Technician I,Production       ,Active,Non Exempt,Bachelors,Boston College,White,MA,1845,34,Male
+1001109612,Production Technician I,Production       ,Active,Non Exempt,Bachelors,American Public University,White,MA,2110,39,Female
+1209049259,Production Technician I,Production       ,Active,Non Exempt,Bachelors,Capella University,White,MA,2189,31,Female
+1409070522,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1960,34,Male
+1304055947,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1844,40,Female
+1301052124,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2199,34,Male
+1101023679,Production Technician I,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,1810,34,Male
+1403066194,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1915,47,Female
+1109029366,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2072,47,Male
+1412071844,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2027,59,Female
+1308060366,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2031,28,Female
+1311063114,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1701,34,Male
+1208048062,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2763,67,Female
+1305057282,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2170,38,Female
+1012023295,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2044,29,Female
+1403066069,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2189,40,Female
+1501072124,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2061,50,Male
+706006285,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2180,35,Male
+1209048696,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2351,39,Female
+1202031618,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2125,31,Female
+1007020403,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2026,43,Male
+1101023612,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2045,39,Male
+1302053339,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2132,28,Male
+803009012,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2176,31,Female
+1006020020,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2155,36,Female
+1309061015,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1905,32,Male
+1104025414,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1550,37,Male
+1105026041,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2121,34,Female
+1501072192,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2145,27,Female
+1204032927,Production Technician I,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,2451,37,Female
+1411071212,Production Technician I,Production       ,Active,Non Exempt,No ,No,American Indian or Alaska Native,MA,2108,48,Male
+1406068241,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1776,35,Male
+1404066622,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1886,43,Female
+1002017900,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2149,34,Male
+1408069882,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1775,27,Female
+1201031438,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2081,45,Female
+1503072857,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1778,51,Female
+1412071713,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2109,53,Female
+1301052462,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1887,42,Male
+1304055683,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1721,40,Male
+1311062610,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1801,37,Male
+1308060754,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2451,43,Female
+1401064327,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2330,40,Female
+909015167,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2184,31,Female
+1109029256,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2346,41,Female
+1102024121,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2453,33,Female
+1403066020,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1810,50,Female
+1203032357,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2132,33,Female
+1404066949,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2478,41,Male
+1103024335,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1760,38,Male
+1307059944,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1749,44,Female
+1001735072,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2451,36,Male
+1401064562,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2109,56,Male
+1405067642,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2171,45,Female
+1011022887,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1730,33,Male
+710007555,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1886,43,Female
+1302053362,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2154,29,Female
+1205033102,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2149,32,Female
+1501071909,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2130,53,Female
+1410071137,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2093,49,Female
+1111030244,Production Technician I,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,2050,35,Female
+1106026896,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2301,32,Male
+1201031310,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2747,35,Male
+1407069061,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2718,49,Female
+1409070255,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2093,50,Female
+1012023152,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2021,34,Female
+1211051232,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1730,39,Female
+1011022883,Production Technician I,Production       ,Active,Non Exempt,Associates,Masscusetts Bay Community College,White,MA,1886,29,Female
+1599991009,Production Technician I,Production       ,Active,Non Exempt,Associates,Northern Essex Community College,White,MA,2452,40,Male
+1106026579,Production Technician I,Production       ,Active,Non Exempt,Associates,Capella University,White,MA,2169,38,Male
+1405067064,Production Technician I,Production       ,Active,Non Exempt,Associates,North Shore Community College,White,MA,2127,40,Female
+1304055987,Production Technician I,Production       ,Active,Non Exempt,Associates,Roxbury Community College,White,MA,2048,31,Male
+1111030129,Production Technician I,Production       ,Active,Non Exempt,Bachelors,Boston College,White,MA,1845,34,Male
+1001109612,Production Technician I,Production       ,Active,Non Exempt,Bachelors,American Public University,White,MA,2110,39,Female
+1209049259,Production Technician I,Production       ,Active,Non Exempt,Bachelors,Capella University,White,MA,2189,31,Female
+1304055947,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1844,40,Female
+1301052124,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2199,34,Male
+1101023679,Production Technician I,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,1810,34,Male
+1403066194,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1915,47,Female
+1109029366,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2072,47,Male
+1412071844,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2027,59,Female
+1308060366,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2031,28,Female
+1311063114,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1701,34,Male
+1208048062,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2763,67,Female
+1305057282,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2170,38,Female
+1012023295,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2044,29,Female
+1403066069,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2189,40,Female
+1501072124,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2061,50,Male
+706006285,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2180,35,Male
+1209048696,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2351,39,Female
+1202031618,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2125,31,Female
+1007020403,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2026,43,Male
+1101023612,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2045,39,Male
+1302053339,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2132,28,Male
+803009012,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2176,31,Female
+1006020020,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2155,36,Female
+1309061015,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1905,32,Male
+1104025414,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1550,37,Male
+1105026041,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2121,34,Female
+1501072192,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2145,27,Female
+1204032927,Production Technician I,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,2451,37,Female
+1408069539,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2451,25,Female
+1411071212,Production Technician I,Production       ,Active,Non Exempt,No ,No,American Indian or Alaska Native,MA,2108,48,Male
+1406068241,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1776,35,Male
+1404066622,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1886,43,Female
+1002017900,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2149,34,Male
+1408069882,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1775,27,Female
+1201031438,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2081,45,Female
+1503072857,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1778,51,Female
+1412071713,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2109,53,Female
+1301052462,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1887,42,Male
+1304055683,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1721,40,Male
+1311062610,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1801,37,Male
+1308060754,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2451,43,Female
+1401064327,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2330,40,Female
+909015167,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2184,31,Female
+1109029256,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2346,41,Female
+1102024121,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2453,33,Female
+1403066020,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1810,50,Female
+1203032357,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2132,33,Female
+1404066949,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2478,41,Male
+1103024335,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1760,38,Male
+1307059944,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1749,44,Female
+1001735072,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2451,36,Male
+1401064562,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2109,56,Male
+1405067642,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2171,45,Female
+1011022887,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1730,33,Male
+710007555,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1886,43,Female
+1302053362,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2154,29,Female
+1205033102,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2149,32,Female
+1501071909,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2130,53,Female
+1410071137,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2093,49,Female
+1111030244,Production Technician I,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,2050,35,Female
+1106026896,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2301,32,Male
+1201031310,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2747,35,Male
+1407069061,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2718,49,Female
+1409070255,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2093,50,Female
+1012023152,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2021,34,Female
+1211051232,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1730,39,Female
+1011022883,Production Technician I,Production       ,Active,Non Exempt,Associates,Masscusetts Bay Community College,White,MA,1886,29,Female
+1212051409,Production Technician I,Production       ,Active,Non Exempt,Associates,Bunker Hill Community College,Two or more races,MA,1902,47,Female
+1312063507,Production Technician I,Production       ,Active,Non Exempt,Associates,Bunker Hill Community College,Asian,MA,2062,43,Male
+1110029777,Production Technician I,Production       ,Active,Non Exempt,Associates,Middlesex Community College,Asian,MA,2452,38,Male
+1407069280,Production Technician I,Production       ,Active,Non Exempt,Associates,North Shore Community College,White,MA,2134,37,Male
+1599991009,Production Technician I,Production       ,Active,Non Exempt,Associates,Northern Essex Community College,White,MA,2452,40,Male
+1001450968,Production Technician I,Production       ,Active,Non Exempt,Associates,Northern Essex Community College,Black or African American,MA,1880,38,Male
+1106026579,Production Technician I,Production       ,Active,Non Exempt,Associates,Capella University,White,MA,2169,38,Male
+1312063675,Production Technician I,Production       ,Active,Non Exempt,Associates,North Shore Community College,Asian,MA,1864,43,Female
+1103024859,Production Technician I,Production       ,Active,Non Exempt,Associates,North Shore Community College,White,MA,2176,34,Female
+1405067064,Production Technician I,Production       ,Active,Non Exempt,Associates,North Shore Community College,White,MA,2127,40,Female
+1105025721,Production Technician I,Production       ,Active,Non Exempt,Associates,Regis College,White,MA,2445,58,Male
+903013071,Production Technician I,Production       ,Active,Non Exempt,Associates,North Shore Community College,White,MA,2127,47,Female
+1304055987,Production Technician I,Production       ,Active,Non Exempt,Associates,Roxbury Community College,White,MA,2048,31,Male
+1106026474,Production Technician I,Production       ,Active,Non Exempt,Associates,Bunker Hill Community College,White,MA,2124,32,Female
+1111030129,Production Technician I,Production       ,Active,Non Exempt,Bachelors,Boston College,White,MA,1845,34,Male
+1001109612,Production Technician I,Production       ,Active,Non Exempt,Bachelors,American Public University,White,MA,2110,39,Female
+1209049259,Production Technician I,Production       ,Active,Non Exempt,Bachelors,Capella University,White,MA,2189,31,Female
+1305057440,Production Technician I,Production       ,Active,Non Exempt,Bachelors,National University,White,MA,2451,29,Male
+1409070522,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1960,34,Male
+1001417624,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2169,28,Female
+1304055947,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1844,40,Female
+1301052124,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2199,34,Male
+1307060083,Production Technician I,Production       ,Active,Non Exempt,No ,No,Hispanic,MA,1902,44,Female
+1101023679,Production Technician I,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,1810,34,Male
+1212051962,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2747,40,Male
+1403066194,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1915,47,Female
+1109029366,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2072,47,Male
+1412071844,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2027,59,Female
+1308060366,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2031,28,Female
+1406068293,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1701,27,Female
+1408069635,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2043,48,Female
+1311063114,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1701,34,Male
+1208048062,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2763,67,Female
+1305057282,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2170,38,Female
+1101023394,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1775,34,Female
+1012023295,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2044,29,Female
+1403066069,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2189,40,Female
+1311063172,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1821,30,Female
+1306058816,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1810,40,Male
+1501072124,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2061,50,Male
+706006285,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2180,35,Male
+1209048696,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2351,39,Female
+1202031618,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2125,31,Female
+1406067865,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2343,26,Female
+1007020403,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2026,43,Male
+1101023612,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2045,39,Male
+1104025243,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2129,34,Male
+1107027392,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2458,28,Female
+1502072511,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2176,62,Female
+1302053339,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2132,28,Male
+803009012,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2176,31,Female
+1006020020,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2155,36,Female
+1309061015,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1905,32,Male
+1104025414,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1550,37,Male
+1105026041,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2121,34,Female
+1501072192,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2145,27,Female
+1204032927,Production Technician I,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,2451,37,Female
+1408069539,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2451,25,Female
+1411071212,Production Technician I,Production       ,Active,Non Exempt,No ,No,American Indian or Alaska Native,MA,2108,48,Male
+1406068241,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1776,35,Male
+1404066622,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1886,43,Female
+1002017900,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2149,34,Male
+1408069882,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1775,27,Female
+1201031438,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2081,45,Female
+1503072857,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1778,51,Female
+1412071713,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2109,53,Female
+1301052462,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1887,42,Male
+1304055683,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1721,40,Male
+1311062610,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1801,37,Male
+1101023353,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2122,42,Female
+1308060754,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2451,43,Female
+1401064327,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2330,40,Female
+909015167,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2184,31,Female
+1109029256,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2346,41,Female
+1102024121,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2453,33,Female
+1302053044,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2136,40,Male
+1403066020,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1810,50,Female
+1203032357,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2132,33,Female
+1404066949,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2478,41,Male
+1103024335,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1760,38,Male
+1307059944,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1749,44,Female
+1001735072,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2451,36,Male
+1401064562,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2109,56,Male
+1405067642,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2171,45,Female
+1011022887,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1730,33,Male
+710007555,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1886,43,Female
+1410070998,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1801,49,Female
+1302053362,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2154,29,Female
+807010161,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2191,42,Female
+1205033102,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2149,32,Female
+1501071909,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2130,53,Female
+1410071137,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2093,49,Female
+1111030244,Production Technician I,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,2050,35,Female
+1106026896,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2301,32,Male
+1201031310,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2747,35,Male
+1407069061,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,2718,49,Female
+1409070255,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2093,50,Female
+1012023152,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,2021,34,Female
+1211051232,Production Technician I,Production       ,Active,Non Exempt,No ,No,Asian,MA,1730,39,Female
+1106026474,Production Technician I,Production       ,Active,Non Exempt,Associates,Bunker Hill Community College,White,MA,2124,32,Female
+1311063172,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1821,30,Female
+1407069280,Production Technician I,Production       ,Active,Non Exempt,Associates,North Shore Community College,White,MA,2134,37,Male
+1106026474,Production Technician I,Production       ,Active,Non Exempt,Associates,Bunker Hill Community College,White,MA,2124,32,Female
+1410070998,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1801,49,Female
+1311063172,Production Technician I,Production       ,Active,Non Exempt,No ,No,White,MA,1821,30,Female
+1407069280,Production Technician I,Production       ,Active,Non Exempt,Associates,North Shore Community College,White,MA,2134,37,Male
+1410070998,Production Technician I,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1801,49,Female
+1212051409,Production Technician I,Production       ,Leave of Absence,Non Exempt,Associates,Bunker Hill Community College,Two or more races,MA,1902,47,Female
+807010161,Production Technician I,Production       ,Leave of Absence,Non Exempt,No ,No,Asian,MA,2191,42,Female
+1110029777,Production Technician I,Production       ,Leave of Absence,Non Exempt,Associates,Middlesex Community College,Asian,MA,2452,38,Male
+1408069635,Production Technician I,Production       ,Leave of Absence,Non Exempt,No ,No,Black or African American,MA,2043,48,Female
+1302053044,Production Technician I,Production       ,Leave of Absence,Non Exempt,No ,No,White,MA,2136,40,Male
+1302053044,Production Technician I,Production       ,Leave of Absence,Non Exempt,No ,No,White,MA,2136,40,Male
+1408069635,Production Technician I,Production       ,Leave of Absence,Non Exempt,No ,No,Black or African American,MA,2043,48,Female
+1101023353,Production Technician I,Production       ,Leave of Absence,Non Exempt,No ,No,White,MA,2122,42,Female
+1212051409,Production Technician I,Production       ,Leave of Absence,Non Exempt,Associates,Bunker Hill Community College,Two or more races,MA,1902,47,Female
+1101023353,Production Technician I,Production       ,Leave of Absence,Non Exempt,No ,No,Black or African American,MA,2122,42,Female
+1312063675,Production Technician I,Production       ,Leave of Absence,Non Exempt,Associates,North Shore Community College,Asian,MA,1864,43,Female
+807010161,Production Technician I,Production       ,Leave of Absence,Non Exempt,No ,No,Asian,MA,2191,42,Female
+1312063675,Production Technician I,Production       ,Leave of Absence,Non Exempt,Associates,North Shore Community College,Asian,MA,1864,43,Female
+1110029777,Production Technician I,Production       ,Leave of Absence,Non Exempt,Associates,Middlesex Community College,Asian,MA,2452,38,Male
+1105025661,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2133,28,Female
+1405067188,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2045,59,Male
+1108028428,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1824,39,Female
+1408069503,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Hispanic,MA,2127,41,Male
+1001103149,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2126,47,Female
+1108028428,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1824,39,Female
+1105025661,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2133,28,Female
+1001504432,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2324,35,Female
+1008020942,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,American Indian or Alaska Native,MA,1821,31,Female
+1201031274,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,2458,38,Male
+1406067957,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2149,30,Female
+1301052449,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1890,40,Male
+1001103149,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2126,47,Female
+1011022820,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2148,37,Female
+1301052436,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1460,43,Male
+1104025435,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1040,32,Female
+1101023457,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1013,34,Male
+1403066125,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2171,27,Female
+1205033180,Production Technician Senior,Production       ,Active,Non Exempt,Associates,Roxbury Community College,White,MA,2302,32,Female
+1103024843,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Asian,MA,2050,38,Female
+1404066711,Production Technician Senior,Production       ,Active,Non Exempt,Associates,Cuyahoga Community College,White,MA,1450,25,Male
+1103024843,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Asian,MA,2050,38,Female
+1106026462,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2062,31,Male
+1106026462,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2062,31,Male
+1001970770,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2045,54,Male
+1106026462,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2062,31,Male
+1001970770,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2045,54,Male
+1001504432,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2324,35,Female
+1011022818,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2459,41,Male
+1001970770,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2045,54,Male
+1012023010,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1810,32,Male
+1110029623,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2324,41,Female
+1104025435,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1040,32,Female
+1301052436,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1460,43,Male
+1406067957,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2149,30,Female
+1001103149,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2126,47,Female
+1011022818,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2459,41,Male
+1406067957,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2149,30,Female
+1404066711,Production Technician Senior,Production       ,Active,Non Exempt,Associates,Cuyahoga Community College,White,MA,1450,25,Male
+1012023010,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1810,32,Male
+1306057810,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2128,48,Female
+1001504432,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2324,35,Female
+1205033180,Production Technician Senior,Production       ,Active,Non Exempt,Associates,Roxbury Community College,White,MA,2302,32,Female
+1103024843,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Asian,MA,2050,38,Female
+1403066125,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2171,27,Female
+1101023457,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1013,34,Male
+1404066711,Production Technician Senior,Production       ,Active,Non Exempt,Associates,Cuyahoga Community College,White,MA,1450,25,Male
+1406068345,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2129,64,Female
+1305056276,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2122,41,Female
+1306057810,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2128,48,Female
+1008020942,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,American Indian or Alaska Native,MA,1821,31,Female
+1011022820,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2148,37,Female
+1301052449,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1890,40,Male
+1405067565,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1770,38,Male
+1001856521,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Asian,MA,2492,65,Female
+1104025435,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1040,32,Female
+1307059937,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2155,29,Male
+1402065085,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2324,30,Female
+1205033180,Production Technician Senior,Production       ,Active,Non Exempt,Associates,Roxbury Community College,White,MA,2302,32,Female
+1306057810,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2128,48,Female
+1008020942,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,American Indian or Alaska Native,MA,1821,31,Female
+1005019209,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1810,29,Female
+1306058509,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1742,41,Female
+1307059937,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2155,29,Male
+1103024924,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2351,25,Female
+1106026433,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2021,33,Female
+1207046956,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2445,33,Female
+1011022818,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2459,41,Male
+1303054329,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2145,51,Female
+1403066125,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2171,27,Female
+1101023457,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1013,34,Male
+1011022820,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2148,37,Female
+1307059937,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2155,29,Male
+1205033439,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2472,32,Male
+1012023010,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1810,32,Male
+1301052436,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1460,43,Male
+1201031274,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,2458,38,Male
+1301052449,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1890,40,Male
+1108028351,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,American Indian or Alaska Native,MA,1824,34,Female
+1001549006,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,1886,31,Female
+1411071324,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2128,53,Male
+1109029103,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2143,36,Male
+1402065085,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2324,30,Female
+1402065085,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,2324,30,Female
+1201031274,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Two or more races,MA,2458,38,Male
+1108028428,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,Black or African American,MA,1824,39,Female
+1105025661,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2133,28,Female
+1103024924,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2351,25,Female
+1110029623,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2324,41,Female
+1110029623,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2324,41,Female
+1103024924,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2351,25,Female
+1106026433,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2021,33,Female
+1303054329,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2145,51,Female
+1303054329,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2145,51,Female
+1106026433,Production Technician Senior,Production       ,Active,Non Exempt,No ,No,White,MA,2021,33,Female
+1408069503,Production Technician Senior,Production       ,Leave of Absence,Non Exempt,No ,No,Hispanic,MA,2127,41,Male
+1001549006,Production Technician Senior,Production       ,Leave of Absence,Non Exempt,No ,No,White,MA,1886,31,Female
+1108028351,Production Technician Senior,Production       ,Leave of Absence,Non Exempt,No ,No,American Indian or Alaska Native,MA,1824,34,Female
+1405067565,Production Technician Senior,Production       ,Leave of Absence,Non Exempt,No ,No,White,MA,1770,38,Male
+1405067565,Production Technician Senior,Production       ,Leave of Absence,Non Exempt,No ,No,White,MA,1770,38,Male
+1408069503,Production Technician Senior,Production       ,Leave of Absence,Non Exempt,No ,No,Hispanic,MA,2127,41,Male
+1001549006,Production Technician Senior,Production       ,Leave of Absence,Non Exempt,No ,No,White,MA,1886,31,Female
+1108028351,Production Technician Senior,Production       ,Leave of Absence,Non Exempt,No ,No,American Indian or Alaska Native,MA,1824,34,Female

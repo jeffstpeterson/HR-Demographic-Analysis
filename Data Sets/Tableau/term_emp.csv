@@ -1,0 +1,102 @@
+employee_no,position,department,status,flsa_status,manager_name,performance,engagement_score,emp_satisfaction,source,post_education,race_desc,sex,term_reason,term_date,days_employed
+711007713,Administrative Assistant,Admin Offices,Voluntarily Terminated,Non Exempt,Brandon R. LeBlanc,Fully Meets,3.8,4,Diversity Job Fair,Associates,Asian,Female,career change,2013-09-25,730
+1001167253,Area Sales Manager,Sales,Voluntarily Terminated,Exempt,John Smith,Fully Meets,4.5,5,Newspager/Magazine,Associates,Two or more races,Male,relocation out of area,2014-10-31,1334
+1504073368,Area Sales Manager,Sales,Voluntarily Terminated,Exempt,John Smith,Fully Meets,3.14,5,Social Networks - Facebook Twitter etc,Bachelors,Black or African American,Female,Another position,2014-08-02,1083
+1102023965,Database Administrator,IT/IS,Voluntarily Terminated,Exempt,Simon Roup,Fully Meets,1.62,4,Employee Referral,Bachelors,White,Male,performance,2016-05-01,517
+1111030148,Database Administrator,IT/IS,Voluntarily Terminated,Exempt,Simon Roup,90-day meets,2.19,3,Vendor Referral,Bachelors,Black or African American,Male,hours,2015-10-31,299
+1001175250,IT Manager - DB,IT/IS,Voluntarily Terminated,Exempt,Jennifer Zamora,Fully Meets,2.51,4,Diversity Job Fair,Bachelors,Two or more races,Male,hours,2015-11-04,1395
+1104025466,Network Engineer,IT/IS,Voluntarily Terminated,Exempt,Peter Monroe,Fully Meets,5.0,3,Monster.com,Bachelors,White,Male,medical issues,2015-05-12,127
+1403065874,Production Manager,Production       ,Voluntarily Terminated,Exempt,Janet King,Needs Improvement,2.34,2,Other,Bachelors,Asian,Male,unhappy,2012-09-24,581
+1402065355,Production Manager,Production       ,Voluntarily Terminated,Exempt,Janet King,Fully Meets,4.16,5,Internet Search,Bachelors,White,Female,Another position,2016-05-18,2032
+1303054580,Production Manager,Production       ,Voluntarily Terminated,Exempt,Janet King,Fully Meets,3.39,3,Billboard,No ,Asian,Male,retiring,2014-08-07,311
+1410071026,Production Manager,Production       ,Voluntarily Terminated,Exempt,Janet King,Fully Meets,1.18,3,Diversity Job Fair,No ,White,Female,Another position,2012-01-02,98
+1206038000,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,Fully Meets,5.0,3,Glassdoor,No ,White,Male,attendance,2016-01-26,1842
+1101023839,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,Fully Meets,5.0,3,Website Banner Ads,No ,White,Male,unhappy,2015-09-07,1575
+1404066739,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,N/A- too early to review,3.98,4,Billboard,No ,White,Female,return to school,2011-09-05,62
+903013071,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,Fully Meets,3.49,4,Search Engine - Google Bing Yahoo,Associates,White,Female,more money,2012-01-09,105
+1101023394,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,90-day meets,2.0,4,Other,No ,White,Female,relocation out of area,2015-11-15,1602
+1201031032,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,N/A- too early to review,3.08,4,Pay Per Click,No ,White,Male,hours,2012-09-26,2
+1204033041,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,Fully Meets,2.61,3,Employee Referral,No ,White,Male,more money,2016-05-25,921
+1109029186,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,Fully Meets,3.45,4,MBTA ads,No ,White,Female,medical issues,2015-10-25,1623
+1001268402,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Brannon Miller,PIP,4.29,2,Search Engine - Google Bing Yahoo,No ,Asian,Female,Another position,2015-09-29,2583
+1305057440,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Brannon Miller,Fully Meets,5.0,3,Search Engine - Google Bing Yahoo,Bachelors,White,Male,more money,2012-11-30,514
+1405067138,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,David Stanley,Exceeds,1.97,4,MBTA ads,No ,White,Female,unhappy,2015-06-29,777
+1307060083,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,David Stanley,N/A- too early to review,1.79,4,Diversity Job Fair,No ,Hispanic,Female,Another position,2011-01-12,2
+1406068293,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,David Stanley,Fully Meets,3.35,4,Search Engine - Google Bing Yahoo,No ,White,Female,Another position,2013-06-15,439
+1101023619,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Elijiah Gray,Needs Improvement,1.27,3,Monster.com,No ,White,Female,career change,2015-09-01,1114
+1107027450,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Elijiah Gray,90-day meets,4.0,4,Monster.com,No ,White,Female,unhappy,2016-04-01,1908
+1308060622,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Elijiah Gray,N/A- too early to review,4.24,4,Diversity Job Fair,No ,White,Female,hours,2011-11-15,8
+1109029531,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Elijiah Gray,Fully Meets,3.89,4,Social Networks - Facebook Twitter etc,No ,White,Female,Another position,2014-01-12,1070
+1211050793,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Elijiah Gray,Fully Meets,5.0,4,Professional Society,No ,White,Male,retiring,2016-01-15,1705
+1409070245,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Kelley Spirea,Fully Meets,4.18,4,Diversity Job Fair,No ,Black or African American,Female,Another position,2015-11-11,1318
+1103024859,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Kelley Spirea,Fully Meets,5.0,5,Monster.com,Associates,White,Female,more money,2014-01-11,1055
+1308060671,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Ketsia Liebig,Fully Meets,1.44,4,Diversity Job Fair,No ,Two or more races,Female,relocation out of area,2015-06-27,1265
+1103024504,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Ketsia Liebig,90-day meets,2.81,5,Social Networks - Facebook Twitter etc,No ,White,Female,Another position,2011-05-14,124
+1203032235,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,Exceeds,3.84,5,Information Session,No ,White,Male,maternity leave - did not return,2016-02-05,1271
+1011022926,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,Fully Meets,1.5,5,Billboard,No ,White,Female,unhappy,2013-06-18,267
+1102024274,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,N/A- too early to review,3.17,4,Social Networks - Facebook Twitter etc,No ,Asian,Female,Another position,2011-06-04,19
+1405067492,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,Fully Meets,5.0,5,Search Engine - Google Bing Yahoo,No ,White,Male,Another position,2012-08-13,497
+1408069409,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,Fully Meets,4.88,3,Monster.com,No ,Asian,Female,return to school,2013-08-19,693
+1406067865,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,Fully Meets,5.0,3,Search Engine - Google Bing Yahoo,No ,White,Female,military,2013-06-06,794
+1312063507,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,90-day meets,1.98,3,Diversity Job Fair,Associates,Asian,Male,unhappy,2012-09-19,170
+1105025721,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Michael Albert,Exceeds,1.65,4,Monster.com,Associates,White,Male,more money,2016-04-29,1635
+1308060535,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Michael Albert,Fully Meets,1.53,5,Word of Mouth,No ,White,Male,relocation out of area,2010-07-30,571
+1206042315,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Michael Albert,N/A- too early to review,3.18,4,Internet Search,No ,White,Female,unhappy,2011-09-26,83
+1212051962,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Michael Albert,Fully Meets,5.0,5,On-line Web application,No ,White,Male,Another position,2013-04-06,194
+1208048229,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Michael Albert,Fully Meets,3.8,5,Pay Per Click - Google,No ,White,Male,more money,2012-04-07,194
+1008020960,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,Needs Improvement,3.97,4,Diversity Job Fair,No ,White,Male,military,2015-06-25,1179
+1001417624,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,N/A- too early to review,5.0,4,Word of Mouth,No ,White,Female,return to school,2011-09-06,57
+1306058816,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,Fully Meets,5.0,4,Billboard,No ,White,Male,unhappy,2015-06-08,1484
+1502072511,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,Fully Meets,3.13,3,Search Engine - Google Bing Yahoo,No ,White,Female,military,2014-05-17,922
+1110029602,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,Fully Meets,4.64,4,Monster.com,No ,White,Female,retiring,2015-12-15,1436
+710007401,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,90-day meets,3.6,5,Search Engine - Google Bing Yahoo,No ,White,Female,more money,2015-06-04,1347
+1001138521,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,Exceeds,5.0,4,Diversity Job Fair,No ,Two or more races,Female,Another position,2015-11-14,1468
+1307060058,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,Needs Improvement,3.54,5,Search Engine - Google Bing Yahoo,No ,Black or African American,Male,career change,2012-12-28,718
+1405067501,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,Fully Meets,2.52,5,Diversity Job Fair,No ,Two or more races,Female,Another position,2013-04-01,1435
+1307060212,Production Technician I,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,90-day meets,5.0,5,Newspager/Magazine,No ,White,Male,hours,2011-05-15,125
+1304055986,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,N/A- too early to review,5.0,4,Newspager/Magazine,No ,Two or more races,Female,Another position,2011-08-19,45
+1109029103,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,Fully Meets,4.76,5,Social Networks - Facebook Twitter etc,No ,White,Male,hours,2013-06-24,770
+1306058509,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,Fully Meets,3.72,3,Search Engine - Google Bing Yahoo,No ,White,Female,unhappy,2013-04-01,770
+1107027551,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,Fully Meets,1.3,3,Vendor Referral,No ,White,Female,unhappy,2012-07-02,539
+1202031821,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Amy Dunn,N/A- too early to review,1.03,5,Monster.com,No ,Asian,Female,unhappy,2011-09-15,72
+1012023226,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Brannon Miller,90-day meets,1.16,5,Word of Mouth,No ,White,Female,unhappy,2013-01-07,602
+1205033439,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Brannon Miller,PIP,5.0,2,MBTA ads,No ,White,Male,unhappy,2014-09-04,1116
+1411071324,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Brannon Miller,PIP,4.35,3,Diversity Job Fair,No ,Black or African American,Male,career change,2011-05-30,399
+1405067188,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Brannon Miller,Exceeds,1.67,3,Professional Society,No ,White,male,retiring,2016-02-21,1140
+1402065340,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,David Stanley,N/A- too early to review,2.19,4,Search Engine - Google Bing Yahoo,No ,White,Female,return to school,2011-10-22,26
+1010022030,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,David Stanley,Fully Meets,4.52,3,Glassdoor,No ,Asian,Female,Another position,2014-03-31,448
+1209048697,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,David Stanley,Fully Meets,1.3,4,Other,No ,White,Male,career change,2011-09-26,392
+1008021030,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Elijiah Gray,90-day meets,1.38,5,Search Engine - Google Bing Yahoo,No ,White,Female,career change,2014-04-04,1180
+1406068345,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Elijiah Gray,Fully Meets,3.93,3,Search Engine - Google Bing Yahoo,No ,White,Female,Another position,2012-07-08,419
+1011022932,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Kelley Spirea,Fully Meets,5.0,3,Monster.com,No ,White,Female,hours,2013-02-18,770
+1104025179,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Kelley Spirea,Fully Meets,4.62,5,Search Engine - Google Bing Yahoo,No ,Black or African American,Female,more money,2015-11-04,1675
+1411071406,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Ketsia Liebig,Exceeds,1.79,5,Pay Per Click - Google,No ,White,Female,more money,2012-02-04,264
+1012023204,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Ketsia Liebig,Fully Meets,3.66,3,Word of Mouth,No ,White,Female,career change,2012-01-09,280
+1104025486,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,Fully Meets,1.84,3,Word of Mouth,No ,White,Male,more money,2013-04-15,378
+1499902991,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,Fully Meets,2.48,5,Glassdoor,No ,White,Male,Another position,2012-02-08,218
+1005019209,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Kissy Sullivan,90-day meets,3.02,3,Newspager/Magazine,No ,White,Female,hours,2012-09-24,447
+1012023103,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Michael Albert,Fully Meets,4.68,4,Monster.com,No ,White,Female,maternity leave - did not return,2015-04-08,1990
+1305056276,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Michael Albert,N/A- too early to review,4.65,4,On-campus Recruiting,No ,White,Female,more money,2013-09-15,69
+1207046956,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Michael Albert,Fully Meets,3.03,5,Glassdoor,No ,White,Female,relocation out of area,2012-04-07,236
+1011022777,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,Fully Meets,1.37,4,Pay Per Click - Google,No ,White,Male,military,2010-08-30,1162
+1001856521,Production Technician II,Production       ,Voluntarily Terminated,Non Exempt,Webster Butler,90-day meets,5.0,3,Newspager/Magazine,No ,Asian,Female,unhappy,2013-08-19,462
+1109029264,Sales Manager,Sales,Voluntarily Terminated,Exempt,Debra Houlihan,Fully Meets,1.9,5,Social Networks - Facebook Twitter etc,Bachelors,White,Female,maternity leave - did not return,2014-04-24,899
+1206043417,Shared Services Manager,Admin Offices,Voluntarily Terminated,Exempt,Janet King,Fully Meets,4.15,4,Diversity Job Fair,Bachelors,White,Male,career change,2015-08-15,1636
+1102024057,Software Engineer,Software Engineering,Voluntarily Terminated,Exempt,Alex Sweetwater,Fully Meets,1.11,3,Diversity Job Fair,No ,White,Male,medical issues,2014-04-15,421
+1112030979,Software Engineer,Software Engineering,Voluntarily Terminated,Exempt,Alex Sweetwater,Exceeds,1.1,5,Diversity Job Fair,No ,Asian,Male,Another position,2015-09-07,1400
+1307060199,Sr. DBA,IT/IS,Voluntarily Terminated,Exempt,Simon Roup,Fully Meets,4.96,3,Company Intranet - Partner,Masters,White,Male,career change,2016-06-16,444
+1111030266,Sr. DBA,IT/IS,Voluntarily Terminated,Exempt,Simon Roup,90-day meets,3.88,3,Vendor Referral,Bachelors,White,Female,Another position,2015-11-10,309
+1302053046,Area Sales Manager,Sales,Terminated for Cause,Exempt,John Smith,Fully Meets,3.97,4,Monster.com,Associates,White,Female,attendance,2015-09-05,425
+1410071156,Database Administrator,IT/IS,Terminated for Cause,Exempt,Simon Roup,N/A- too early to review,4.33,3,Employee Referral,Bachelors,Black or African American,Male,"no-call, no-show",2015-02-22,6
+905013738,Database Administrator,IT/IS,Terminated for Cause,Exempt,Simon Roup,Fully Meets,1.87,4,Glassdoor,Bachelors,White,Female,"no-call, no-show",2015-03-15,27
+1102024056,Database Administrator,IT/IS,Terminated for Cause,Exempt,Simon Roup,Fully Meets,1.87,4,Search Engine - Google Bing Yahoo,Bachelors,White,Female,performance,2015-09-12,432
+1001944783,Production Manager,Production       ,Terminated for Cause,Exempt,Janet King,Fully Meets,4.78,4,Employee Referral,Bachelors,White,Male,attendance,2015-12-12,1797
+1107027392,Production Technician I,Production       ,Terminated for Cause,Non Exempt,Elijiah Gray,N/A- too early to review,1.04,3,Word of Mouth,No ,White,Female,"no-call, no-show",2014-02-25,8
+1107027575,Production Technician I,Production       ,Terminated for Cause,Non Exempt,Kelley Spirea,90-day meets,5.0,4,Social Networks - Facebook Twitter etc,No ,White,Male,attendance,2011-08-04,164
+1011022814,Production Technician I,Production       ,Terminated for Cause,Non Exempt,Kelley Spirea,Exceeds,2.79,5,Social Networks - Facebook Twitter etc,No ,White,Female,gross misconduct,2016-02-08,1596
+1403065625,Production Technician I,Production       ,Terminated for Cause,Non Exempt,Ketsia Liebig,Needs Improvement,3.6,3,Glassdoor,No ,White,Female,attendance,2016-05-17,1954
+1206044851,Production Technician I,Production       ,Terminated for Cause,Non Exempt,Kissy Sullivan,PIP,3.09,2,Professional Society,No ,Two or more races,Female,performance,2016-05-01,762
+1001450968,Production Technician I,Production       ,Terminated for Cause,Non Exempt,Kissy Sullivan,Needs Improvement,1.42,3,MBTA ads,Associates,Black or African American,Male,performance,2012-09-23,440
+1104025243,Production Technician I,Production       ,Terminated for Cause,Non Exempt,Michael Albert,Needs Improvement,5.0,4,Word of Mouth,No ,White,Male,attendance,2014-09-27,908
+1401064670,Software Engineer,Software Engineering,Terminated for Cause,Exempt,Alex Sweetwater,Needs Improvement,2.55,5,Billboard,No ,White,Female,attendance,2013-06-05,765
+1412071562,Sr. DBA,IT/IS,Terminated for Cause,Exempt,Simon Roup,Fully Meets,2.94,5,Vendor Referral,Bachelors,Black or African American,Male,hours,2016-02-19,732

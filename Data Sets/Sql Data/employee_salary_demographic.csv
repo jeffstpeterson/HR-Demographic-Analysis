@@ -1,0 +1,245 @@
+employee_no,position,department,status,flsa_status,post_education,school,race_desc,state,zip,age,sex
+1301052347,Sr. Network Engineer,IT/IS,Active,Exempt,Bachelors,New York University,Asian,MA,2453,39,Female
+1108028108,Sr. Network Engineer,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,2169,31,Male
+1411071312,Sr. Network Engineer,IT/IS,Active,Exempt,Bachelors,Pennsylvania State University,White,CT,6033,66,Female
+1308060959,Sr. Network Engineer,IT/IS,Active,Exempt,Associates,Lakeland Community College,White,CT,6278,52,Male
+1308060959,Sr. Network Engineer,IT/IS,Active,Exempt,Associates,Lakeland Community College,White,CT,6278,52,Male
+1308060959,Sr. Network Engineer,IT/IS,Active,Exempt,Associates,Lakeland Community College,White,CT,6278,52,Male
+1301052347,Sr. Network Engineer,IT/IS,Active,Exempt,Bachelors,New York University,Asian,MA,2453,39,Female
+1301052347,Sr. Network Engineer,IT/IS,Active,Exempt,Bachelors,New York University,Asian,MA,2453,39,Female
+904013591,Sr. Network Engineer,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,Asian,MA,1545,34,Male
+904013591,Sr. Network Engineer,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,Asian,MA,1545,34,Male
+904013591,Sr. Network Engineer,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,Asian,MA,1545,34,Male
+1411071312,Sr. Network Engineer,IT/IS,Leave of Absence,Exempt,Bachelors,Pennsylvania State University,White,CT,6033,66,Female
+1108028108,Sr. Network Engineer,IT/IS,Leave of Absence,Exempt,Bachelors,Boston College,White,MA,2169,31,Male
+1411071312,Sr. Network Engineer,IT/IS,Leave of Absence,Exempt,Bachelors,Pennsylvania State University,White,CT,6033,66,Female
+1108028108,Sr. Network Engineer,IT/IS,Leave of Absence,Exempt,Bachelors,Boston College,White,MA,2169,31,Male
+1010022337,Sr. DBA,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,1886,31,Female
+1010022337,Sr. DBA,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,1886,31,Female
+1010022337,Sr. DBA,IT/IS,Active,Exempt,Bachelors,Boston College,Black or African American,MA,1886,31,Female
+1307060188,Sr. Accountant,Admin Offices,Active,Exempt,Masters,University of Connecticut,Asian,MA,2468,30,Female
+1307060188,Sr. Accountant,Admin Offices,Active,Exempt,Masters,University of Connecticut,Asian,MA,2468,30,Female
+1201031308,Sr. Accountant,Admin Offices,Active,Exempt,Masters,Massachusetts Institute of Technology,White,MA,2050,38,Female
+1307060188,Sr. Accountant,Admin Offices,Active,Exempt,Masters,University of Connecticut,Asian,MA,2468,30,Female
+1201031308,Sr. Accountant,Admin Offices,Active,Exempt,Masters,Massachusetts Institute of Technology,White,MA,2050,38,Female
+1201031308,Sr. Accountant,Admin Offices,Active,Exempt,Masters,Massachusetts Institute of Technology,White,MA,2050,38,Female
+1001644719,Software Engineering Manager,Software Engineering     ,Active,Exempt,No ,No,White,MA,2184,51,Male
+1001644719,Software Engineering Manager,Software Engineering     ,Active,Exempt,No ,No,White,MA,2184,51,Male
+1001644719,Software Engineering Manager,Software Engineering     ,Active,Exempt,No ,No,White,MA,2184,51,Male
+1201031324,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2140,34,Male
+1107027358,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2110,38,Female
+1101023577,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2132,30,Female
+1203032498,Software Engineer,Software Engineering,Active,Exempt,No ,No,Black or African American,MA,2176,38,Female
+1303054625,Software Engineer,Software Engineering,Active,Exempt,No ,No,Asian,MA,2135,30,Female
+1012023185,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2132,31,Female
+1107027358,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2110,38,Female
+1107027358,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2110,38,Female
+1101023577,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2132,30,Female
+1203032498,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2176,38,Female
+1303054625,Software Engineer,Software Engineering,Active,Exempt,No ,No,Asian,MA,2135,30,Female
+1012023185,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2132,31,Female
+1201031324,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2140,34,Male
+1102024057,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2451,34,Male
+1201031324,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2140,34,Male
+1012023185,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2132,31,Female
+1112030979,Software Engineer,Software Engineering,Active,Exempt,No ,No,Asian,MA,1844,38,Male
+1303054625,Software Engineer,Software Engineering,Active,Exempt,No ,No,Asian,MA,2135,30,Female
+1203032498,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2176,38,Female
+1101023577,Software Engineer,Software Engineering,Active,Exempt,No ,No,White,MA,2132,30,Female
+1102024115,Shared Services Manager,Admin Offices,Active,Exempt,Associates,Masscusetts Bay Community College,White,MA,1460,33,Male
+1102024115,Shared Services Manager,Admin Offices,Active,Exempt,Associates,Masscusetts Bay Community College,White,MA,1460,33,Male
+1102024115,Shared Services Manager,Admin Offices,Active,Exempt,Associates,Masscusetts Bay Community College,White,MA,1460,33,Male
+1402065303,Sales Manager,Sales,Active,Exempt,Bachelors,Cornell University,White,VT,5473,27,Female
+1499902910,Sales Manager,Sales,Active,Exempt,No ,No,White,MA,1886,33,Male
+1402065303,Sales Manager,Sales,Active,Exempt,Bachelors,Cornell University,White,VT,5473,27,Female
+1499902910,Sales Manager,Sales,Active,Exempt,No ,No,White,MA,1886,33,Male
+1402065303,Sales Manager,Sales,Active,Exempt,Bachelors,Cornell University,White,VT,5473,27,Female
+1499902910,Sales Manager,Sales,Active,Exempt,No ,No,Black or African American,MA,1886,33,Male
+1307060077,Production Manager,Production       ,Active,Exempt,Masters,University of Connecticut,White,MA,1752,36,Male
+1410071026,Production Manager,Production       ,Active,Exempt,No ,No,White,MA,2478,62,Female
+1303054580,Production Manager,Production       ,Active,Exempt,No ,No,Asian,MA,1901,47,Male
+1000974650,Production Manager,Production       ,Active,Exempt,Masters,University of Masschusetts Lowell,White,MA,1803,42,Male
+1307060077,Production Manager,Production       ,Active,Exempt,Masters,University of Connecticut,White,MA,1752,36,Male
+1405067298,Production Manager,Production       ,Active,Exempt,Bachelors,University of Masschusetts Lowell,White,MA,1776,39,Female
+1102024149,Production Manager,Production       ,Active,Exempt,Bachelors,University of Masschusetts Lowell,White,MA,2451,42,Female
+1402065355,Production Manager,Production       ,Active,Exempt,Bachelors,University of Masschusetts Lowell,White,MA,2030,40,Female
+1103024679,Production Manager,Production       ,Active,Exempt,Bachelors,Boston College,White,MA,2110,36,Female
+1403065874,Production Manager,Production       ,Active,Exempt,Bachelors,Western Connecticut State Univerity,Asian,MA,2128,41,Male
+1001944783,Production Manager,Production       ,Active,Exempt,Bachelors,Southern Connecticut State University,White,MA,1890,45,Male
+1409070147,Production Manager,Production       ,Active,Exempt,Bachelors,Boston College,White,MA,1731,44,Female
+1110029990,Production Manager,Production       ,Active,Exempt,Bachelors,Boston College,White,MA,2169,34,Male
+1501072311,Production Manager,Production       ,Active,Exempt,Bachelors,Univerity of Texas,White,MA,2169,49,Male
+1107027351,Production Manager,Production       ,Active,Exempt,Associates,Southern New Hampshire University,Hispanic,MA,2045,36,Male
+1107027351,Production Manager,Production       ,Active,Exempt,Associates,Southern New Hampshire University,Hispanic,MA,2045,36,Male
+1501072311,Production Manager,Production       ,Active,Exempt,Bachelors,Univerity of Texas,White,MA,2169,49,Male
+1110029990,Production Manager,Production       ,Active,Exempt,Bachelors,Boston College,White,MA,2169,34,Male
+1409070147,Production Manager,Production       ,Active,Exempt,Bachelors,Boston College,White,MA,1731,44,Female
+1103024679,Production Manager,Production       ,Active,Exempt,Bachelors,Boston College,White,MA,2110,36,Female
+1102024149,Production Manager,Production       ,Active,Exempt,Bachelors,University of Masschusetts Lowell,White,MA,2451,42,Female
+1405067298,Production Manager,Production       ,Active,Exempt,Bachelors,University of Masschusetts Lowell,Black or African American,MA,1776,39,Female
+1307060077,Production Manager,Production       ,Active,Exempt,Masters,University of Connecticut,White,MA,1752,36,Male
+1000974650,Production Manager,Production       ,Active,Exempt,Masters,University of Masschusetts Lowell,White,MA,1803,42,Male
+1000974650,Production Manager,Production       ,Active,Exempt,Masters,University of Masschusetts Lowell,White,MA,1803,42,Male
+1405067298,Production Manager,Production       ,Active,Exempt,Bachelors,University of Masschusetts Lowell,White,MA,1776,39,Female
+1102024149,Production Manager,Production       ,Active,Exempt,Bachelors,University of Masschusetts Lowell,White,MA,2451,42,Female
+1103024679,Production Manager,Production       ,Active,Exempt,Bachelors,Boston College,White,MA,2110,36,Female
+1409070147,Production Manager,Production       ,Active,Exempt,Bachelors,Boston College,White,MA,1731,44,Female
+1110029990,Production Manager,Production       ,Active,Exempt,Bachelors,Boston College,White,MA,2169,34,Male
+1501072311,Production Manager,Production       ,Active,Exempt,Bachelors,Univerity of Texas,White,MA,2169,49,Male
+1107027351,Production Manager,Production       ,Active,Exempt,Associates,Southern New Hampshire University,Hispanic,MA,2045,36,Male
+1001495124,President & CEO,Executive Office,Active,Exempt,Bachelors,Arizona State University,White,MA,1902,63,Female
+1001495124,President & CEO,Executive Office,Active,Exempt,Bachelors,Arizona State University,White,MA,1902,63,Female
+1001495124,President & CEO,Executive Office,Active,Exempt,Bachelors,Arizona State University,White,MA,1902,63,Female
+1001956578,Network Engineer,IT/IS,Active,Exempt,Masters,University of Massachusetts Boston,White,MA,2048,38,Female
+1212052023,Network Engineer,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,1886,30,Male
+1102024173,Network Engineer,IT/IS,Active,Exempt,Bachelors,North Carolina State University,White,MA,2135,28,Male
+1001956578,Network Engineer,IT/IS,Active,Exempt,Masters,University of Massachusetts Boston,White,MA,2048,38,Female
+1012023013,Network Engineer,IT/IS,Active,Exempt,Masters,University of Georgia,White,MA,2138,30,Male
+1101023540,Network Engineer,IT/IS,Active,Exempt,Masters,Marquette University,White,MA,2119,29,Female
+1411071506,Network Engineer,IT/IS,Active,Exempt,Doctoral,Stanford University,White,MA,2343,48,Male
+906014183,Network Engineer,IT/IS,Active,Exempt,Bachelors,Massachusetts Institute of Technology,White,MA,1773,36,Female
+1988299991,Network Engineer,IT/IS,Active,Exempt,Bachelors,University of Michigan,White,MA,2472,36,Female
+1212052023,Network Engineer,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,1886,30,Male
+1001956578,Network Engineer,IT/IS,Active,Exempt,Masters,University of Massachusetts Boston,White,MA,2048,38,Female
+1101023540,Network Engineer,IT/IS,Active,Exempt,Masters,Marquette University,White,MA,2119,29,Female
+1411071506,Network Engineer,IT/IS,Active,Exempt,Doctoral,Stanford University,White,MA,2343,48,Male
+906014183,Network Engineer,IT/IS,Active,Exempt,Bachelors,Massachusetts Institute of Technology,White,MA,1773,36,Female
+1988299991,Network Engineer,IT/IS,Active,Exempt,Bachelors,University of Michigan,White,MA,2472,36,Female
+1102024173,Network Engineer,IT/IS,Active,Exempt,Bachelors,North Carolina State University,White,MA,2135,28,Male
+1212052023,Network Engineer,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,1886,30,Male
+1102024173,Network Engineer,IT/IS,Active,Exempt,Bachelors,North Carolina State University,White,MA,2135,28,Male
+1988299991,Network Engineer,IT/IS,Active,Exempt,Bachelors,University of Michigan,White,MA,2472,36,Female
+906014183,Network Engineer,IT/IS,Active,Exempt,Bachelors,Massachusetts Institute of Technology,White,MA,1773,36,Female
+1411071506,Network Engineer,IT/IS,Active,Exempt,Doctoral,Stanford University,White,MA,2343,48,Male
+1101023540,Network Engineer,IT/IS,Active,Exempt,Masters,Marquette University,White,MA,2119,29,Female
+1012023013,Network Engineer,IT/IS,Active,Exempt,Masters,University of Georgia,White,MA,2138,30,Male
+1012023013,Network Engineer,IT/IS,Active,Exempt,Masters,University of Georgia,White,MA,2138,30,Male
+1101023754,IT Manager - Support,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,White,MA,1886,47,Male
+1101023754,IT Manager - Support,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,White,MA,1886,47,Male
+1101023754,IT Manager - Support,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,White,MA,1886,47,Male
+1011022863,IT Manager - Infra,IT/IS,Active,Exempt,Masters,University of Connecticut,Hispanic,MA,2134,31,Male
+1011022863,IT Manager - Infra,IT/IS,Active,Exempt,Masters,University of Connecticut,Hispanic,MA,2134,31,Male
+1011022863,IT Manager - Infra,IT/IS,Active,Exempt,Masters,University of Connecticut,Hispanic,MA,2134,31,Male
+1106026933,IT Manager - DB,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,2481,44,Male
+1106026933,IT Manager - DB,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,2481,44,Male
+1106026933,IT Manager - DB,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,2481,44,Male
+1192991000,IT Director,IT/IS,Active,Exempt,Masters,University of Masschusetts Lowell,White,MA,1460,37,Male
+1192991000,IT Director,IT/IS,Active,Exempt,Masters,University of Masschusetts Lowell,White,MA,1460,37,Male
+1192991000,IT Director,IT/IS,Active,Exempt,Masters,University of Masschusetts Lowell,Black or African American,MA,1460,37,Male
+1009021646,Director of Sales,Sales,Active,Exempt,Masters,Souther Connecticut State University,White,RI,2908,51,Female
+1009021646,Director of Sales,Sales,Active,Exempt,Masters,Souther Connecticut State University,White,RI,2908,51,Female
+1009021646,Director of Sales,Sales,Active,Exempt,Masters,Souther Connecticut State University,White,RI,2908,51,Female
+1006020066,Director of Operations,Production       ,Active,Exempt,Bachelors,University of Massachusetts Boston,Black or African American,MA,2030,34,Female
+1006020066,Director of Operations,Production       ,Active,Exempt,Bachelors,University of Massachusetts Boston,White,MA,2030,34,Female
+1006020066,Director of Operations,Production       ,Active,Exempt,Bachelors,University of Massachusetts Boston,White,MA,2030,34,Female
+1406068403,Database Administrator,IT/IS,Active,Exempt,Bachelors,Texas State University,White,TX,78230,29,Male
+1108027853,Database Administrator,IT/IS,Active,Exempt,Bachelors,Massachusetts Institute of Technology,Asian,MA,1886,33,Female
+1203032255,Database Administrator,IT/IS,Active,Exempt,Bachelors,Ohio University,White,MA,1810,31,Male
+808010278,Database Administrator,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,White,MA,2110,47,Male
+1110029732,Database Administrator,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,2148,38,Female
+1407068885,Database Administrator,IT/IS,Active,Exempt,Bachelors,Colorado State University,White,MA,1886,36,Female
+1102024056,Database Administrator,IT/IS,Active,Exempt,Bachelors,University of Michigan,White,MA,2026,31,Female
+905013738,Database Administrator,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,White,MA,2127,46,Female
+1410071156,Database Administrator,IT/IS,Active,Exempt,Bachelors,University of Delaware,Black or African American,MA,1960,31,Male
+1105025718,Database Administrator,IT/IS,Active,Exempt,Bachelors,Florida State University,White,MA,2493,33,Female
+1003018246,Database Administrator,IT/IS,Active,Exempt,Bachelors,Florida State University,Asian,MA,2301,31,Female
+1105025718,Database Administrator,IT/IS,Active,Exempt,Bachelors,Florida State University,White,MA,2493,33,Female
+1105025718,Database Administrator,IT/IS,Active,Exempt,Bachelors,Florida State University,White,MA,2493,33,Female
+1406068403,Database Administrator,IT/IS,Active,Exempt,Bachelors,Texas State University,White,TX,78230,29,Male
+1110029732,Database Administrator,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,2148,38,Female
+808010278,Database Administrator,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,White,MA,2110,47,Male
+1203032255,Database Administrator,IT/IS,Active,Exempt,Bachelors,Ohio University,White,MA,1810,31,Male
+1407068885,Database Administrator,IT/IS,Active,Exempt,Bachelors,Colorado State University,White,MA,1886,36,Female
+1108027853,Database Administrator,IT/IS,Active,Exempt,Bachelors,Massachusetts Institute of Technology,Asian,MA,1886,33,Female
+1406068403,Database Administrator,IT/IS,Active,Exempt,Bachelors,Texas State University,Black or African American,TX,78230,29,Male
+1110029732,Database Administrator,IT/IS,Active,Exempt,Bachelors,Boston College,White,MA,2148,38,Female
+808010278,Database Administrator,IT/IS,Active,Exempt,Bachelors,University of Massachusetts Boston,White,MA,2110,47,Male
+1203032255,Database Administrator,IT/IS,Active,Exempt,Bachelors,Ohio University,White,MA,1810,31,Male
+1407068885,Database Administrator,IT/IS,Active,Exempt,Bachelors,Colorado State University,White,MA,1886,36,Female
+1108027853,Database Administrator,IT/IS,Active,Exempt,Bachelors,Massachusetts Institute of Technology,Asian,MA,1886,33,Female
+1003018246,Database Administrator,IT/IS,Leave of Absence,Exempt,Bachelors,Florida State University,Asian,MA,2301,31,Female
+1003018246,Database Administrator,IT/IS,Leave of Absence,Exempt,Bachelors,Florida State University,Asian,MA,2301,31,Female
+1112030816,CIO,IT/IS,Active,Exempt,Masters,Michigan University,White,MA,2067,38,Female
+1112030816,CIO,IT/IS,Active,Exempt,Masters,Michigan University,White,MA,2067,38,Female
+1112030816,CIO,IT/IS,Active,Exempt,Masters,Michigan University,White,MA,2067,38,Female
+1411071481,Area Sales Manager,Sales,Active,Exempt,Bachelors,Arkansas State,White,ID,83706,63,Male
+1401064637,Area Sales Manager,Sales,Active,Exempt,No ,No,White,OR,97756,52,Female
+1102024106,Area Sales Manager,Sales,Active,Exempt,No ,No,White,KY,40220,29,Female
+1409070567,Area Sales Manager,Sales,Active,Exempt,No ,No,White,CA,90007,29,Female
+1504073313,Area Sales Manager,Sales,Active,Exempt,No ,No,White,MA,2330,42,Male
+1312063714,Area Sales Manager,Sales,Active,Exempt,Masters,Arizona State University,White,AZ,85006,26,Female
+1411071295,Area Sales Manager,Sales,Active,Exempt,Masters,Montana State University,White,MT,59102,28,Female
+812011761,Area Sales Manager,Sales,Active,Exempt,Masters,Wake Forest University,White,NC,27229,35,Male
+1403065721,Area Sales Manager,Sales,Active,Exempt,Masters,Brown University,White,VT,5664,54,Female
+1111030503,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Maine,Asian,ME,4063,28,Male
+1501072180,Area Sales Manager,Sales,Active,Exempt,Bachelors,Florida State University,White,FL,33174,27,Female
+1111030684,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Georgia,White,GA,30428,28,Female
+1306057978,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of West Alabama,White,AL,36006,42,Male
+1209048771,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Texas,White,TX,78207,47,Male
+1412071660,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Utah,White,UT,84111,29,Male
+1104025008,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Utah,White,CO,80820,38,Male
+1001084890,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Nevada Las Vegas,White,NV,89139,43,Male
+1411071481,Area Sales Manager,Sales,Active,Exempt,Bachelors,Arkansas State,White,ID,83706,63,Male
+1204032843,Area Sales Manager,Sales,Active,Exempt,Bachelors,State University of New York,White,NY,10171,48,Male
+1306059197,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Maine,American Indian or Alaska Native,NH,3062,29,Male
+1408069481,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Washington,White,WA,98052,30,Female
+1502072711,Area Sales Manager,Sales,Active,Exempt,Associates,Minot State University,White,ND,58782,50,Male
+1209049326,Area Sales Manager,Sales,Active,Exempt,Associates,Tarrant Community College,White,TX,78789,33,Male
+1203032099,Area Sales Manager,Sales,Active,Exempt,Associates,Valpariaso University,White,IN,46204,28,Female
+1411071302,Area Sales Manager,Sales,Active,Exempt,Associates,Cuyahoga Community College,White,CT,6050,54,Male
+1411071302,Area Sales Manager,Sales,Active,Exempt,Associates,Cuyahoga Community College,White,CT,6050,54,Male
+1203032099,Area Sales Manager,Sales,Active,Exempt,Associates,Valpariaso University,White,IN,46204,28,Female
+1209049326,Area Sales Manager,Sales,Active,Exempt,Associates,Tarrant Community College,White,TX,78789,33,Male
+1502072711,Area Sales Manager,Sales,Active,Exempt,Associates,Minot State University,White,ND,58782,50,Male
+1408069481,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Washington,White,WA,98052,30,Female
+1306059197,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Maine,American Indian or Alaska Native,NH,3062,29,Male
+1204032843,Area Sales Manager,Sales,Active,Exempt,Bachelors,State University of New York,White,NY,10171,48,Male
+1411071481,Area Sales Manager,Sales,Active,Exempt,Bachelors,Arkansas State,White,ID,83706,63,Male
+1001084890,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Nevada Las Vegas,White,NV,89139,43,Male
+1104025008,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Utah,White,CO,80820,38,Male
+1412071660,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Utah,White,UT,84111,29,Male
+1209048771,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Texas,White,TX,78207,47,Male
+1306057978,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of West Alabama,White,AL,36006,42,Male
+1111030684,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Georgia,White,GA,30428,28,Female
+1501072180,Area Sales Manager,Sales,Active,Exempt,Bachelors,Florida State University,White,FL,33174,27,Female
+1111030503,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Maine,Asian,ME,4063,28,Male
+1403065721,Area Sales Manager,Sales,Active,Exempt,Masters,Brown University,White,VT,5664,54,Female
+812011761,Area Sales Manager,Sales,Active,Exempt,Masters,Wake Forest University,White,NC,27229,35,Male
+1411071295,Area Sales Manager,Sales,Active,Exempt,Masters,Montana State University,White,MT,59102,28,Female
+1312063714,Area Sales Manager,Sales,Active,Exempt,Masters,Arizona State University,White,AZ,85006,26,Female
+1504073313,Area Sales Manager,Sales,Active,Exempt,No ,No,White,MA,2330,42,Male
+1409070567,Area Sales Manager,Sales,Active,Exempt,No ,No,White,CA,90007,29,Female
+1102024106,Area Sales Manager,Sales,Active,Exempt,No ,No,White,KY,40220,29,Female
+1401064637,Area Sales Manager,Sales,Active,Exempt,No ,No,White,OR,97756,52,Female
+1411071295,Area Sales Manager,Sales,Active,Exempt,Masters,Montana State University,Black or African American,MT,59102,28,Female
+812011761,Area Sales Manager,Sales,Active,Exempt,Masters,Wake Forest University,White,NC,27229,35,Male
+1403065721,Area Sales Manager,Sales,Active,Exempt,Masters,Brown University,White,VT,5664,54,Female
+1111030503,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Maine,Asian,ME,4063,28,Male
+1501072180,Area Sales Manager,Sales,Active,Exempt,Bachelors,Florida State University,White,FL,33174,27,Female
+1111030684,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Georgia,Two or more races,GA,30428,28,Female
+1306057978,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of West Alabama,Two or more races,AL,36006,42,Male
+1209048771,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Texas,Black or African American,TX,78207,47,Male
+1412071660,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Utah,Black or African American,UT,84111,29,Male
+1104025008,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Utah,White,CO,80820,38,Male
+1001084890,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Nevada Las Vegas,White,NV,89139,43,Male
+1204032843,Area Sales Manager,Sales,Active,Exempt,Bachelors,State University of New York,Two or more races,NY,10171,48,Male
+1306059197,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Maine,American Indian or Alaska Native,NH,3062,29,Male
+1408069481,Area Sales Manager,Sales,Active,Exempt,Bachelors,University of Washington,White,WA,98052,30,Female
+1502072711,Area Sales Manager,Sales,Active,Exempt,Associates,Minot State University,White,ND,58782,50,Male
+1209049326,Area Sales Manager,Sales,Active,Exempt,Associates,Tarrant Community College,Two or more races,TX,78789,33,Male
+1203032099,Area Sales Manager,Sales,Active,Exempt,Associates,Valpariaso University,White,IN,46204,28,Female
+1411071302,Area Sales Manager,Sales,Active,Exempt,Associates,Cuyahoga Community College,Black or African American,CT,6050,54,Male
+1401064637,Area Sales Manager,Sales,Active,Exempt,No ,No,Black or African American,OR,97756,52,Female
+1102024106,Area Sales Manager,Sales,Active,Exempt,No ,No,Black or African American,KY,40220,29,Female
+1409070567,Area Sales Manager,Sales,Active,Exempt,No ,No,White,CA,90007,29,Female
+1504073313,Area Sales Manager,Sales,Active,Exempt,No ,No,White,MA,2330,42,Male
+1312063714,Area Sales Manager,Sales,Active,Exempt,Masters,Arizona State University,Two or more races,AZ,85006,26,Female
+1302053333,Accountant I,Admin Offices,Active,Exempt,Bachelors,Cornell University,White,MA,2703,31,Male
+1103024456,Accountant I,Admin Offices,Active,Exempt,Bachelors,New York University,Black or African American,MA,1450,32,Female
+1302053333,Accountant I,Admin Offices,Active,Exempt,Bachelors,Cornell University,White,MA,2703,31,Male
+1106026572,Accountant I,Admin Offices,Active,Exempt,Associates,New York University,White,MA,1460,33,Male
+1103024456,Accountant I,Admin Offices,Active,Exempt,Bachelors,New York University,White,MA,1450,32,Female
+1103024456,Accountant I,Admin Offices,Active,Exempt,Bachelors,New York University,White,MA,1450,32,Female
+1106026572,Accountant I,Admin Offices,Active,Exempt,Associates,New York University,Black or African American,MA,1460,33,Male
+1106026572,Accountant I,Admin Offices,Active,Exempt,Associates,New York University,White,MA,1460,33,Male
+1302053333,Accountant I,Admin Offices,Active,Exempt,Bachelors,Cornell University,White,MA,2703,31,Male

@@ -1,0 +1,237 @@
+employee_no,position,department,status,manager_name,performance,engagement_score,emp_satisfaction,race_desc,sex
+904013591,Sr. Network Engineer,IT/IS,Active,Peter Monroe,N/A- too early to review,3.27,4,Asian,Male
+1308060959,Sr. Network Engineer,IT/IS,Active,Peter Monroe,90-day meets,5.0,3,White,Male
+1301052347,Sr. Network Engineer,IT/IS,Active,Peter Monroe,N/A- too early to review,1.06,4,Asian,Female
+1411071312,Sr. Network Engineer,IT/IS,Active,Peter Monroe,Fully Meets,1.55,5,White,Female
+1108028108,Sr. Network Engineer,IT/IS,Active,Peter Monroe,Fully Meets,4.46,5,White,Male
+1010022337,Sr. DBA,IT/IS,Active,Simon Roup,N/A- too early to review,5.0,5,White,Female
+1201031308,Sr. Accountant,Admin Offices,Active,Board of Directors,Fully Meets,5.0,3,White,Female
+1307060188,Sr. Accountant,Admin Offices,Active,Brandon R. LeBlanc,90-day meets,5.0,4,Asian,Female
+1001644719,Software Engineering Manager,Software Engineering     ,Active,Jennifer Zamora,Fully Meets,3.84,3,White,Male
+1107027358,Software Engineer,Software Engineering,Active,Alex Sweetwater,Fully Meets,3.04,3,White,Female
+1012023185,Software Engineer,Software Engineering,Active,Alex Sweetwater,Fully Meets,1.74,3,White,Female
+1101023577,Software Engineer,Software Engineering,Active,Alex Sweetwater,90-day meets,4.96,4,White,Female
+1203032498,Software Engineer,Software Engineering,Active,Alex Sweetwater,90-day meets,3.79,5,Black or African American,Female
+1303054625,Software Engineer,Software Engineering,Active,Alex Sweetwater,Fully Meets,1.53,5,Asian,Female
+1201031324,Software Engineer,Software Engineering,Active,Alex Sweetwater,Exceptional,2.61,5,White,Male
+1102024057,Software Engineer,Software Engineering,Active,Alex Sweetwater,Fully Meets,1.11,3,White,Male
+1112030979,Software Engineer,Software Engineering,Active,Alex Sweetwater,Exceeds,1.1,5,Asian,Male
+1102024115,Shared Services Manager,Admin Offices,Active,Janet King,Fully Meets,1.95,4,White,Male
+1499902910,Sales Manager,Sales,Active,Debra Houlihan,Needs Improvement,1.62,4,Black or African American,Male
+1402065303,Sales Manager,Sales,Active,Debra Houlihan,Fully Meets,4.62,4,White,Female
+1405067188,Production Technician II,Production       ,Active,Brannon Miller,Exceeds,1.67,3,White,male
+1011022818,Production Technician II,Production       ,Active,Ketsia Liebig,Fully Meets,3.11,5,Black or African American,Male
+1406068345,Production Technician II,Production       ,Active,Elijiah Gray,Fully Meets,3.93,3,White,Female
+1001970770,Production Technician II,Production       ,Active,Elijiah Gray,Exceeds,2.41,3,White,Male
+1106026462,Production Technician II,Production       ,Active,Kelley Spirea,Fully Meets,2.08,3,White,Male
+1103024843,Production Technician II,Production       ,Active,Brannon Miller,Fully Meets,2.61,3,Asian,Female
+1001856521,Production Technician II,Production       ,Active,Webster Butler,90-day meets,5.0,3,Asian,Female
+1104025435,Production Technician II,Production       ,Active,Elijiah Gray,Fully Meets,4.53,5,White,Female
+1301052436,Production Technician II,Production       ,Active,Michael Albert,Fully Meets,4.29,5,Black or African American,Male
+1408069503,Production Technician II,Production       ,Active,Kelley Spirea,Fully Meets,2.5,4,Hispanic,Male
+1001103149,Production Technician II,Production       ,Active,Kissy Sullivan,Exceptional,2.55,3,Black or African American,Female
+1205033439,Production Technician II,Production       ,Active,Brannon Miller,PIP,5.0,2,White,Male
+1406067957,Production Technician II,Production       ,Active,Ketsia Liebig,N/A- too early to review,5.0,5,White,Female
+1110029623,Production Technician II,Production       ,Active,Webster Butler,N/A- too early to review,5.0,3,White,Female
+1001504432,Production Technician II,Production       ,Active,Elijiah Gray,Exceeds,1.64,4,Black or African American,Female
+1305056276,Production Technician II,Production       ,Active,Michael Albert,N/A- too early to review,4.65,4,White,Female
+1405067565,Production Technician II,Production       ,Active,Kelley Spirea,Fully Meets,4.0,3,White,Male
+1306057810,Production Technician II,Production       ,Active,Brannon Miller,Exceptional,1.51,3,White,Female
+1008020942,Production Technician II,Production       ,Active,Ketsia Liebig,Exceeds,4.6,4,American Indian or Alaska Native,Female
+1306058509,Production Technician II,Production       ,Active,Amy Dunn,Fully Meets,3.72,3,White,Female
+1103024924,Production Technician II,Production       ,Active,Webster Butler,N/A- too early to review,2.63,3,White,Female
+1106026433,Production Technician II,Production       ,Active,Elijiah Gray,N/A- too early to review,2.92,5,White,Female
+1207046956,Production Technician II,Production       ,Active,Michael Albert,Fully Meets,3.03,5,White,Female
+1307059937,Production Technician II,Production       ,Active,Kelley Spirea,Fully Meets,5.0,3,White,Male
+1108028351,Production Technician II,Production       ,Active,Kissy Sullivan,Fully Meets,2.57,5,American Indian or Alaska Native,Female
+1001549006,Production Technician II,Production       ,Active,David Stanley,Fully Meets,2.04,3,White,Female
+1411071324,Production Technician II,Production       ,Active,Brannon Miller,PIP,4.35,3,Black or African American,Male
+1109029103,Production Technician II,Production       ,Active,Amy Dunn,Fully Meets,4.76,5,White,Male
+1402065085,Production Technician II,Production       ,Active,Webster Butler,Fully Meets,4.0,4,Black or African American,Female
+1108028428,Production Technician II,Production       ,Active,Elijiah Gray,Fully Meets,1.49,5,Black or African American,Female
+1201031274,Production Technician II,Production       ,Active,Kissy Sullivan,90-day meets,3.96,4,Two or more races,Male
+1301052449,Production Technician II,Production       ,Active,Ketsia Liebig,Fully Meets,3.25,5,White,Male
+1011022820,Production Technician II,Production       ,Active,Amy Dunn,Fully Meets,4.51,4,Black or African American,Female
+1101023457,Production Technician II,Production       ,Active,Webster Butler,Fully Meets,3.19,3,White,Male
+1403066125,Production Technician II,Production       ,Active,Michael Albert,Needs Improvement,1.16,3,White,Female
+1303054329,Production Technician II,Production       ,Active,Kelley Spirea,Exceeds,2.7,3,White,Female
+1005019209,Production Technician II,Production       ,Active,Kissy Sullivan,90-day meets,3.02,3,White,Female
+1205033180,Production Technician II,Production       ,Active,David Stanley,Fully Meets,3.4,4,White,Female
+1404066711,Production Technician II,Production       ,Active,David Stanley,Fully Meets,2.67,3,White,Male
+1105025661,Production Technician II,Production       ,Active,Michael Albert,PIP,4.59,1,White,Female
+1012023010,Production Technician II,Production       ,Active,Kissy Sullivan,Fully Meets,4.07,4,White,Male
+1209049259,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,2.55,4,White,Female
+1408069539,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,1.94,5,White,Female
+1011022883,Production Technician I,Production       ,Active,Elijiah Gray,Fully Meets,4.84,5,White,Female
+1599991009,Production Technician I,Production       ,Active,David Stanley,Fully Meets,1.51,5,White,Male
+1106026579,Production Technician I,Production       ,Active,David Stanley,Fully Meets,5.0,3,White,Male
+1405067064,Production Technician I,Production       ,Active,Michael Albert,Fully Meets,4.2,4,White,Female
+1304055987,Production Technician I,Production       ,Active,David Stanley,Fully Meets,5.0,5,White,Male
+1111030129,Production Technician I,Production       ,Active,Webster Butler,Fully Meets,3.8,5,White,Male
+1001109612,Production Technician I,Production       ,Active,Elijiah Gray,Fully Meets,5.0,3,White,Female
+1409070522,Production Technician I,Production       ,Active,Michael Albert,Exceeds,2.51,5,White,Male
+1304055947,Production Technician I,Production       ,Active,Amy Dunn,Exceptional,5.0,5,White,Female
+1301052124,Production Technician I,Production       ,Active,Ketsia Liebig,N/A- too early to review,5.0,4,White,Male
+1101023679,Production Technician I,Production       ,Active,Kelley Spirea,Fully Meets,1.41,4,Two or more races,Male
+1403066194,Production Technician I,Production       ,Active,Elijiah Gray,Fully Meets,5.0,5,White,Female
+1109029366,Production Technician I,Production       ,Active,Amy Dunn,Fully Meets,5.0,3,White,Male
+1412071844,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,2.39,3,Asian,Female
+1308060366,Production Technician I,Production       ,Active,Brannon Miller,Exceeds,5.0,3,White,Female
+1311063114,Production Technician I,Production       ,Active,Kelley Spirea,Fully Meets,4.43,3,Black or African American,Male
+1208048062,Production Technician I,Production       ,Active,Michael Albert,Fully Meets,5.0,4,White,Female
+1305057282,Production Technician I,Production       ,Active,Elijiah Gray,Fully Meets,2.73,4,White,Female
+1012023295,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,3.58,5,Black or African American,Female
+1403066069,Production Technician I,Production       ,Active,Kelley Spirea,90-day meets,4.73,5,White,Female
+1501072124,Production Technician I,Production       ,Active,Amy Dunn,PIP,1.12,2,White,Male
+706006285,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,1.13,4,White,Male
+1209048696,Production Technician I,Production       ,Active,Brannon Miller,Needs Improvement,3.88,4,Black or African American,Female
+1202031618,Production Technician I,Production       ,Active,David Stanley,Fully Meets,2.79,5,White,Female
+1007020403,Production Technician I,Production       ,Active,Kelley Spirea,Fully Meets,1.86,5,White,Male
+1101023612,Production Technician I,Production       ,Active,Kelley Spirea,90-day meets,2.05,3,White,Male
+1302053339,Production Technician I,Production       ,Active,Amy Dunn,N/A- too early to review,1.56,5,White,Male
+803009012,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,1.85,4,White,Female
+1006020020,Production Technician I,Production       ,Active,Brannon Miller,Fully Meets,5.0,5,White,Female
+1309061015,Production Technician I,Production       ,Active,David Stanley,N/A- too early to review,4.5,3,White,Male
+1104025414,Production Technician I,Production       ,Active,Kissy Sullivan,Fully Meets,2.61,4,Asian,Male
+1105026041,Production Technician I,Production       ,Active,Kelley Spirea,Fully Meets,1.66,4,Black or African American,Female
+1501072192,Production Technician I,Production       ,Active,Michael Albert,N/A- too early to review,3.73,3,Black or African American,Female
+1204032927,Production Technician I,Production       ,Active,Amy Dunn,Exceeds,3.39,4,Two or more races,Female
+1411071212,Production Technician I,Production       ,Active,Brannon Miller,Exceeds,1.83,4,American Indian or Alaska Native,Male
+1406068241,Production Technician I,Production       ,Active,Elijiah Gray,Fully Meets,1.83,3,Asian,Male
+1404066622,Production Technician I,Production       ,Active,Amy Dunn,Exceeds,4.76,4,White,Female
+1002017900,Production Technician I,Production       ,Active,Ketsia Liebig,90-day meets,4.17,4,White,Male
+1408069882,Production Technician I,Production       ,Active,Brannon Miller,Fully Meets,3.99,3,White,Female
+1201031438,Production Technician I,Production       ,Active,David Stanley,Fully Meets,2.32,3,White,Female
+1503072857,Production Technician I,Production       ,Active,Kissy Sullivan,Fully Meets,2.05,5,White,Female
+1412071713,Production Technician I,Production       ,Active,Kelley Spirea,Fully Meets,5.0,5,White,Female
+1301052462,Production Technician I,Production       ,Active,Michael Albert,Fully Meets,3.07,4,White,Male
+1304055683,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,2.79,3,Black or African American,Male
+1311062610,Production Technician I,Production       ,Active,Brannon Miller,Fully Meets,3.38,3,Asian,Male
+1308060754,Production Technician I,Production       ,Active,Brannon Miller,Fully Meets,1.04,3,White,Female
+1401064327,Production Technician I,Production       ,Active,David Stanley,90-day meets,5.0,4,White,Female
+909015167,Production Technician I,Production       ,Active,Kissy Sullivan,Fully Meets,3.93,3,Black or African American,Female
+1109029256,Production Technician I,Production       ,Active,Michael Albert,N/A- too early to review,5.0,4,White,Female
+1102024121,Production Technician I,Production       ,Active,Elijiah Gray,Fully Meets,1.76,4,White,Female
+1403066020,Production Technician I,Production       ,Active,Brannon Miller,Exceeds,1.12,3,Asian,Female
+1203032357,Production Technician I,Production       ,Active,David Stanley,Fully Meets,2.79,5,White,Female
+1404066949,Production Technician I,Production       ,Active,Kelley Spirea,Exceeds,2.86,3,White,Male
+1103024335,Production Technician I,Production       ,Active,Michael Albert,Needs Improvement,4.25,3,Black or African American,Male
+1307059944,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,2.72,3,White,Female
+1001735072,Production Technician I,Production       ,Active,David Stanley,Fully Meets,3.66,3,Black or African American,Male
+1401064562,Production Technician I,Production       ,Active,Kelley Spirea,Fully Meets,2.45,3,White,Male
+1405067642,Production Technician I,Production       ,Active,Webster Butler,Exceeds,4.36,5,Asian,Female
+1011022887,Production Technician I,Production       ,Active,Brannon Miller,Exceptional,3.02,5,White,Male
+710007555,Production Technician I,Production       ,Active,David Stanley,Fully Meets,5.0,4,White,Female
+1302053362,Production Technician I,Production       ,Active,Elijiah Gray,Fully Meets,3.51,3,Black or African American,Female
+1205033102,Production Technician I,Production       ,Active,Amy Dunn,Fully Meets,4.81,4,White,Female
+1501071909,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,3.73,3,White,Female
+1410071137,Production Technician I,Production       ,Active,Brannon Miller,PIP,4.11,2,White,Female
+1111030244,Production Technician I,Production       ,Active,Kissy Sullivan,Fully Meets,1.05,4,Two or more races,Female
+1106026896,Production Technician I,Production       ,Active,Kelley Spirea,Fully Meets,1.39,3,Asian,Male
+1201031310,Production Technician I,Production       ,Active,Michael Albert,90-day meets,4.36,5,White,Male
+1407069061,Production Technician I,Production       ,Active,Elijiah Gray,Fully Meets,2.77,5,Asian,Female
+1409070255,Production Technician I,Production       ,Active,Brannon Miller,Fully Meets,4.21,5,Black or African American,Female
+1012023152,Production Technician I,Production       ,Active,David Stanley,N/A- too early to review,2.44,5,White,Female
+1211051232,Production Technician I,Production       ,Active,David Stanley,Fully Meets,1.24,5,Asian,Female
+1212051409,Production Technician I,Production       ,Active,Brannon Miller,Fully Meets,4.46,3,Two or more races,Female
+1312063507,Production Technician I,Production       ,Active,Kissy Sullivan,90-day meets,1.98,3,Asian,Male
+1110029777,Production Technician I,Production       ,Active,Webster Butler,Fully Meets,1.09,4,Asian,Male
+1407069280,Production Technician I,Production       ,Active,Brannon Miller,Exceeds,1.97,4,White,Male
+1001450968,Production Technician I,Production       ,Active,Kissy Sullivan,Needs Improvement,1.42,3,Black or African American,Male
+1312063675,Production Technician I,Production       ,Active,Kissy Sullivan,Fully Meets,1.71,5,Asian,Female
+1103024859,Production Technician I,Production       ,Active,Kelley Spirea,Fully Meets,5.0,5,White,Female
+1105025721,Production Technician I,Production       ,Active,Michael Albert,Exceeds,1.65,4,White,Male
+903013071,Production Technician I,Production       ,Active,Amy Dunn,Fully Meets,3.49,4,White,Female
+1106026474,Production Technician I,Production       ,Active,Michael Albert,N/A- too early to review,3.21,3,White,Female
+1305057440,Production Technician I,Production       ,Active,Brannon Miller,Fully Meets,5.0,3,White,Male
+1001417624,Production Technician I,Production       ,Active,Webster Butler,N/A- too early to review,5.0,4,White,Female
+1307060083,Production Technician I,Production       ,Active,David Stanley,N/A- too early to review,1.79,4,Hispanic,Female
+1212051962,Production Technician I,Production       ,Active,Michael Albert,Fully Meets,5.0,5,White,Male
+1406068293,Production Technician I,Production       ,Active,David Stanley,Fully Meets,3.35,4,White,Female
+1408069635,Production Technician I,Production       ,Active,Kissy Sullivan,Fully Meets,2.83,5,Black or African American,Female
+1101023394,Production Technician I,Production       ,Active,Amy Dunn,90-day meets,2.0,4,White,Female
+1311063172,Production Technician I,Production       ,Active,Michael Albert,N/A- too early to review,4.12,5,White,Female
+1306058816,Production Technician I,Production       ,Active,Webster Butler,Fully Meets,5.0,4,White,Male
+1406067865,Production Technician I,Production       ,Active,Kissy Sullivan,Fully Meets,5.0,3,White,Female
+1104025243,Production Technician I,Production       ,Active,Michael Albert,Needs Improvement,5.0,4,White,Male
+1107027392,Production Technician I,Production       ,Active,Elijiah Gray,N/A- too early to review,1.04,3,White,Female
+1502072511,Production Technician I,Production       ,Active,Webster Butler,Fully Meets,3.13,3,White,Female
+1101023353,Production Technician I,Production       ,Active,Elijiah Gray,90-day meets,5.0,3,White,Female
+1302053044,Production Technician I,Production       ,Active,Ketsia Liebig,Fully Meets,5.0,5,White,Male
+1410070998,Production Technician I,Production       ,Active,Kelley Spirea,N/A- too early to review,1.12,4,White,Female
+807010161,Production Technician I,Production       ,Active,Webster Butler,Fully Meets,5.0,5,Asian,Female
+1405067298,Production Manager,Production       ,Active,Janet King,Fully Meets,3.73,4,Black or African American,Female
+1307060077,Production Manager,Production       ,Active,Janet King,Fully Meets,4.63,3,White,Male
+1110029990,Production Manager,Production       ,Active,Janet King,Exceeds,5.0,3,White,Male
+1000974650,Production Manager,Production       ,Active,Janet King,Needs Improvement,4.13,2,White,Male
+1102024149,Production Manager,Production       ,Active,Janet King,Fully Meets,4.83,5,White,Female
+1103024679,Production Manager,Production       ,Active,Janet King,Exceeds,3.66,3,White,Female
+1409070147,Production Manager,Production       ,Active,Janet King,Fully Meets,4.52,4,White,Female
+1402065355,Production Manager,Production       ,Active,Janet King,Fully Meets,4.16,5,White,Female
+1403065874,Production Manager,Production       ,Active,Janet King,Needs Improvement,2.34,2,Asian,Male
+1001944783,Production Manager,Production       ,Active,Janet King,Fully Meets,4.78,4,White,Male
+1107027351,Production Manager,Production       ,Active,Janet King,Fully Meets,4.37,3,Hispanic,Male
+1501072311,Production Manager,Production       ,Active,Janet King,Fully Meets,3.93,3,White,Male
+1410071026,Production Manager,Production       ,Active,Janet King,Fully Meets,1.18,3,White,Female
+1303054580,Production Manager,Production       ,Active,Janet King,Fully Meets,3.39,3,Asian,Male
+1001495124,President & CEO,Executive Office,Active,Board of Directors,Fully Meets,4.83,3,White,Female
+1101023540,Network Engineer,IT/IS,Active,Peter Monroe,90-day meets,4.11,4,White,Female
+1212052023,Network Engineer,IT/IS,Active,Peter Monroe,90-day meets,1.84,5,White,Male
+1102024173,Network Engineer,IT/IS,Active,Peter Monroe,N/A- too early to review,2.21,5,White,Male
+1988299991,Network Engineer,IT/IS,Active,Peter Monroe,Fully Meets,4.61,4,White,Female
+906014183,Network Engineer,IT/IS,Active,Peter Monroe,Fully Meets,3.31,3,White,Female
+1411071506,Network Engineer,IT/IS,Active,Peter Monroe,N/A- too early to review,5.0,4,White,Male
+1012023013,Network Engineer,IT/IS,Active,Peter Monroe,N/A- too early to review,1.2,3,White,Male
+1001956578,Network Engineer,IT/IS,Active,Peter Monroe,Fully Meets,3.81,3,White,Female
+1501072093,IT Support,IT/IS,Active,Eric Dougall,Fully Meets,1.21,4,White,Female
+1301052902,IT Support,IT/IS,Active,Eric Dougall,Fully Meets,2.55,3,White,Male
+1203032263,IT Support,IT/IS,Active,Eric Dougall,Fully Meets,4.3,3,Black or African American,Female
+602000312,IT Support,IT/IS,Active,Eric Dougall,Exceeds,4.64,4,Two or more races,Female
+1101023754,IT Manager - Support,IT/IS,Active,Jennifer Zamora,Exceeds,1.99,5,White,Male
+1011022863,IT Manager - Infra,IT/IS,Active,Jennifer Zamora,Needs Improvement,2.39,3,Hispanic,Male
+1106026933,IT Manager - DB,IT/IS,Active,Jennifer Zamora,Fully Meets,2.96,5,White,Male
+1192991000,IT Director,IT/IS,Active,Jennifer Zamora,Exceptional,3.76,5,Black or African American,Male
+1009021646,Director of Sales,Sales,Active,Janet King,Fully Meets,1.22,4,White,Female
+1006020066,Director of Operations,Production       ,Active,Janet King,Exceeds,3.02,5,White,Female
+1406068403,Database Administrator,IT/IS,Active,Simon Roup,Exceptional,4.28,4,White,Male
+1105025718,Database Administrator,IT/IS,Active,Simon Roup,N/A- too early to review,4.48,5,White,Female
+905013738,Database Administrator,IT/IS,Active,Simon Roup,Fully Meets,1.87,4,White,Female
+1410071156,Database Administrator,IT/IS,Active,Simon Roup,N/A- too early to review,4.33,3,Black or African American,Male
+1108027853,Database Administrator,IT/IS,Active,Simon Roup,Exceptional,3.71,5,Asian,Female
+1407068885,Database Administrator,IT/IS,Active,Simon Roup,Fully Meets,3.69,5,White,Female
+1203032255,Database Administrator,IT/IS,Active,Simon Roup,N/A- too early to review,3.04,3,White,Male
+808010278,Database Administrator,IT/IS,Active,Simon Roup,90-day meets,3.32,3,White,Male
+1110029732,Database Administrator,IT/IS,Active,Simon Roup,90-day meets,5.0,3,White,Female
+1003018246,Database Administrator,IT/IS,Active,Simon Roup,90-day meets,3.75,3,Asian,Female
+1102024056,Database Administrator,IT/IS,Active,Simon Roup,Fully Meets,1.87,4,White,Female
+1112030816,CIO,IT/IS,Active,Janet King,Exceptional,1.12,5,White,Female
+812011761,Area Sales Manager,Sales,Active,John Smith,90-day meets,5.0,5,White,Male
+1403065721,Area Sales Manager,Sales,Active,John Smith,Fully Meets,5.0,5,White,Female
+1111030503,Area Sales Manager,Sales,Active,John Smith,Fully Meets,1.77,4,Asian,Male
+1501072180,Area Sales Manager,Sales,Active,Lynn Daneault,Fully Meets,4.28,3,White,Female
+1111030684,Area Sales Manager,Sales,Active,Lynn Daneault,Fully Meets,5.0,5,White,Female
+1306057978,Area Sales Manager,Sales,Active,John Smith,Needs Improvement,1.93,3,White,Male
+1209048771,Area Sales Manager,Sales,Active,Lynn Daneault,Fully Meets,2.94,5,White,Male
+1412071660,Area Sales Manager,Sales,Active,John Smith,Fully Meets,4.53,3,White,Male
+1104025008,Area Sales Manager,Sales,Active,Lynn Daneault,Fully Meets,2.19,5,White,Male
+1001084890,Area Sales Manager,Sales,Active,Lynn Daneault,PIP,1.81,2,White,Male
+1411071481,Area Sales Manager,Sales,Active,John Smith,Fully Meets,3.98,3,White,Male
+1204032843,Area Sales Manager,Sales,Active,John Smith,Fully Meets,3.65,5,White,Male
+1306059197,Area Sales Manager,Sales,Active,John Smith,Fully Meets,3.6,5,American Indian or Alaska Native,Male
+1408069481,Area Sales Manager,Sales,Active,John Smith,PIP,1.2,1,White,Female
+1502072711,Area Sales Manager,Sales,Active,Lynn Daneault,Exceeds,4.1,3,White,Male
+1209049326,Area Sales Manager,Sales,Active,Lynn Daneault,N/A- too early to review,2.91,4,White,Male
+1203032099,Area Sales Manager,Sales,Active,Lynn Daneault,90-day meets,1.72,5,White,Female
+1411071302,Area Sales Manager,Sales,Active,Lynn Daneault,Fully Meets,1.64,3,White,Male
+1401064637,Area Sales Manager,Sales,Active,Lynn Daneault,Fully Meets,3.69,3,Black or African American,Female
+1102024106,Area Sales Manager,Sales,Active,Lynn Daneault,Fully Meets,4.2,5,Black or African American,Female
+1409070567,Area Sales Manager,Sales,Active,Lynn Daneault,Exceeds,4.77,5,White,Female
+1504073313,Area Sales Manager,Sales,Active,Lynn Daneault,Fully Meets,3.31,5,White,Male
+1312063714,Area Sales Manager,Sales,Active,John Smith,Fully Meets,2.81,3,Two or more races,Female
+1411071295,Area Sales Manager,Sales,Active,John Smith,Fully Meets,2.0,4,Black or African American,Female
+1307059817,Administrative Assistant,Admin Offices,Active,Brandon R. LeBlanc,N/A- too early to review,5.0,3,White,Female
+1211050782,Administrative Assistant,Admin Offices,Active,Brandon R. LeBlanc,N/A- too early to review,3.24,3,White,Female
+711007713,Administrative Assistant,Admin Offices,Active,Brandon R. LeBlanc,Fully Meets,3.8,4,Asian,Female
+1302053333,Accountant I,Admin Offices,Active,Brandon R. LeBlanc,Fully Meets,3.9,5,White,Male
+1106026572,Accountant I,Admin Offices,Active,Brandon R. LeBlanc,Fully Meets,5.0,4,White,Male
+1103024456,Accountant I,Admin Offices,Active,Brandon R. LeBlanc,Fully Meets,2.04,2,White,Female
