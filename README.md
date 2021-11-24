@@ -40,8 +40,8 @@ After downloading the csvs, Tableau spreedsheets were created. There comparisons
 // Images
 
 <p align="center">
-  <img src="..images/Hourly Demographic" width="350" alt="Hourly Demographic">
-  <img src="../images/Employee Satisfaction" width="350" alt="Employee Satisfaction">
+  <img src="../images/Hourly Demographic.png" width="350" alt="Hourly Demographic">
+  <img src="../images/Employee Satisfaction.png" width="350" alt="Employee Satisfaction">
 </p>
 
 
