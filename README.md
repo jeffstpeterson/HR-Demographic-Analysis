@@ -39,11 +39,10 @@ After downloading the csvs, Tableau spreedsheets were created. There comparisons
 
 // Images
 
-<img
-src="images/Hourly Demographic.png"
-style="margin-right 10px;"
-/>
-- 
+<p align="center">
+  <img src="..images/Hourly Demographic" width="350" alt="Hourly Demographic">
+  <img src="../images/Employee Satisfaction" width="350" alt="Employee Satisfaction">
+</p>
 
 
 Contact
