@@ -1,11 +1,11 @@
 
-*** HR Demographic Analysis  
+// HR Demographic Analysis  
 
 -- Project Status: [Active, On-Hold, Completed]
 
 Completed
 
-Project Intro/Objective
+// Project Intro/Objective
 The purpose of this project was to take a fictious company and hypotheize that the company was in the midst of an HR transformation effort focused on their talent acquistion efforts. The final output included a ppt creatd from the Tableau dashboard and and outcome of the project and recommendations. 
 
 Methods Used
@@ -19,7 +19,7 @@ Technologies
 * Tableau Desktop/Public
 * PostgreSQL
 
-Project Description
+// Project Description
 
 Starting with a Kaggle dataset https://www.kaggle.com/rhuebner/human-resources-data-set, there was a need to increase some of the data and randomize columns to allow for more robust data analysis. 
 
@@ -33,16 +33,21 @@ I ustilized Pandas to clean and reorganize the data. The data was then loaded in
 
 After downloading the csvs, Tableau spreedsheets were created. There comparisons completed between hourly/salary populaton and gender/race. Additional comparisons between Employee Engagement and Satisdaction based on race and each department. 
 
-ROADBLOCKS
+// ROADBLOCKS
 * Lack of access to real data to create the model. Even an absence of really complete datasets for hypothetical models*
 
 
-Images
-![Hourly Demographic] (/images/Hourly Demographic.png)
-![Employee Satisfaction] (/images/Employee Satisfaction.png)
+// Images
+
+<img
+src="images/Hourly Demographic.png"
+raw=true
+alt="Hourly Demographics"
+style="margin-right 10px;"
+/>
 - 
 
-*https://www.forbes.com/best-employers-diversity/#83534629b9e9
+// https://www.forbes.com/best-employers-diversity/#83534629b9e9
 
 Contact
 Jeff "JP" Peterson
