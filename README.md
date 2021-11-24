@@ -41,7 +41,6 @@ After downloading the csvs, Tableau spreedsheets were created. There comparisons
 
 <img
 src="images/Hourly Demographic.png"
-alt="Hourly Demographics"
 style="margin-right 10px;"
 />
 - 
