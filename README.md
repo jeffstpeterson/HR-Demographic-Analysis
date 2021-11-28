@@ -25,7 +25,7 @@ Starting with a Kaggle dataset https://www.kaggle.com/rhuebner/human-resources-d
 
 I utilized Pandas to clean and reorganize the data. The data was then loaded into PostgreSQL. Several queries were completed and downloaded to csv that were used as the Tableau source files to create Visualizations. 
 
-1. emmp_hourlydemo
+1. emp_hourlydemo
 2. employee_salary_demo
 3. emp_satisfaction
 4. emp_sources
@@ -42,7 +42,7 @@ After downloading the csvs, Tableau spreedsheets were created. There comparisons
 ![Emp Satisfaction](https://github.com/jeffstpeterson/HR-Demographic-Analysis/blob/main/Images/Employee%20Satisfaction.png)
 
 
-![Hourly Demographic] (https://github.com/jeffstpeterson/HR-Demographic-Analysis/blob/main/Images/Hourly%20Demographic.png)
+![Hourly Demographic](https://github.com/jeffstpeterson/HR-Demographic-Analysis/blob/main/Images/Hourly%20Demographic.png)
 
 Contact
 Jeff "JP" Peterson
