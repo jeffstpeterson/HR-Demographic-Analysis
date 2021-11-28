@@ -33,11 +33,11 @@ I utilized Pandas to clean and reorganize the data. The data was then loaded int
 
 After downloading the csvs, Tableau spreedsheets were created. There comparisons completed between hourly/salary populaton and gender/race. Additional comparisons between Employee Engagement and Satisdaction based on race and each department. 
 
-// ROADBLOCKS
+//ROADBLOCKS
 * Lack of access to real data to create the model. Even an absence of really complete datasets for hypothetical models 
 
 
-// Images
+//Images
 
 ![Emp Satisfaction](https://github.com/jeffstpeterson/HR-Demographic-Analysis/blob/main/Images/Employee%20Satisfaction.png)
 
